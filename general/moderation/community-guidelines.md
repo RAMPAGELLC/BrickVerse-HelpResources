@@ -19,7 +19,7 @@ Obviously this list is not all-inclusive because we cannot list every detail abo
 Respect your fellow players. Treat them with kindness and try to see things from their perspective. If you can't come to a reasonable agreement after a disagreement, just walk away.\
 \
 2\. Do not try to bypass filtered text or content.\
-Mild profanity is allowed on our site, including in-game chat and on the Forum. We have a profanity filter in place to sift through inappropriate content that never belongs (like discriminatory speech and adult content), however. Do not try to bypass this filter or you may be suspended permanently.\
+Profanity is prohibited on the site, including in-game chat and on the Forum. We have a profanity filter in place to sift through inappropriate content that never belongs (like discriminatory speech and adult content), however. Do not try to bypass this filter or you may be suspended permanently.\
 \
 Additionally, usernames, nicknames, and club names are not allowed to have any profanity. These areas of our website are filtered more heavily than general content.\
 \
