@@ -1,0 +1,5 @@
+# Child Weekly Spend Restrictions
+
+Parents have the option to exercise greater control over their child's spending habits within the virtual world of Brickverse by implementing a weekly spend limit on their child's account. By setting such a limit, parents can establish clear boundaries and help their children develop responsible financial habits. This feature ensures that children can still enjoy the immersive experience of using virtual currency called Cubes within Brickverse while staying within predefined limits.
+
+The weekly spend limit empowers parents to actively participate in their child's virtual economy, fostering discussions about budgeting and financial responsibility. By setting a limit, parents can encourage their children to make thoughtful decisions about how they allocate their Cubes. This not only instills valuable lessons about managing resources but also helps children understand the importance of saving and planning ahead. With this level of control, parents can strike a balance between granting their child autonomy in the virtual world and ensuring their financial well-being.
