@@ -5,8 +5,10 @@
 ## General
 
 * [Accounts](general/accounts/README.md)
+  * [Digital Services Act - Information on Average Monthly Active Recipients in the European Union](general/accounts/digital-services-act-information-on-average-monthly-active-recipients-in-the-european-union.md)
   * [Enhancing Safety with Government Identification Verification (GIV)](general/accounts/enhancing-safety-with-government-identification-verification-giv.md)
   * [Automated ("Bot") Accounts](general/accounts/automated-bot-accounts.md)
+  * [Inactive Account Deletion](general/accounts/inactive-account-deletion.md)
 * [Registration](general/registration/README.md)
   * [Understanding Why We Ask for Gender](general/registration/understanding-why-we-ask-for-gender.md)
   * [What's a Beta Key?](general/registration/whats-a-beta-key.md)
@@ -22,7 +24,9 @@
     * [Automated Bot](general/general/official-badges-faq/automated-bot.md)
   * [Developer Program](general/general/developer-program.md)
 * [Moderation](general/moderation/README.md)
+  * [Addressing Harmful Off-Platform Behavior on BrickVerse](general/moderation/addressing-harmful-off-platform-behavior-on-brickverse.md)
   * [Community Guidelines](general/moderation/community-guidelines.md)
+  * [Law Enforcement Guidelines for Obtaining User Data on BrickVerse](general/moderation/law-enforcement-guidelines-for-obtaining-user-data-on-brickverse.md)
 * [List Of Administrators](general/list-of-administrators.md)
 
 ## Client
