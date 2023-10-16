@@ -1,5 +1,9 @@
 # Term's Of Service
 
+Effective: October 16th, 2023
+
+Last Updated: October 16th, 2023
+
 ## Introduction
 
 Welcome to BrickVerse, a site where users can create everything they want! By using BrickVerse, you agree to the terms of service. Please read the terms thoroughly and frequently.&#x20;
@@ -16,6 +20,8 @@ All users of the site, including but not limited to the employees must agree and
 
 If you do not agree to the Terms of Service, then you are prohibited to not use our platform in any shape or form until acceptance of our Term's Of Service.
 
+By accepting the Terms Of Service you agree to the Privacy Policy, Purchase Agreement, Refund Policy.
+
 ## Your acceptance of the Privacy Policy
 
 To operate, BrickVerse collects information about you and other users. For more information about how we use your information, and what information we collect see the Privacy Policy.
@@ -28,7 +34,7 @@ There are a couple of rules you must agree with when an account is created and u
    1. The BrickVerse administration team will support when you lose your account for any reason when not otherwise possible, however, we can only help you succeed when we can prove that the lost and/or stolen account belongs to you.&#x20;
    2. For this reason, we ask you to use a legitimate e-mail address so we can verify that you own your account.
 2. It is strictly prohibited to share, sell, give away or lend your account to and with anyone except for your parent(s) and/or guardian(s).&#x20;
-   1. If you notice any unauthorized usage of your account(s), we ask you that you sign out all sessions from your account and change your password immediately. Also, you may also choose to contact us through e-mail at [support@brickverse.co](mailto:support@brickverse.co) for any further assistance.
+   1. If you notice any unauthorized usage of your account(s), we ask you that you sign out all sessions from your account and change your password immediately. Also, you may also choose to contact us through the support desk at help.brickverse.co.
 
 ## Code of Conduct
 
@@ -63,7 +69,7 @@ When you do submit ideas, or otherwise contribute, you agree and acknowledge tha
 
 ## Alternate Accounts
 
-We strictly do not allow ALTERNATE ACCOUNTS from the same person. IP bans will be put into place if you use alternate accounts without permission from BrickVerse.
+We strictly **do not allow ALTERNATE ACCOUNTS** from the same person. IP bans will be put into place if you use alternate accounts without permission from BrickVerse.
 
 Accounts are automatically limited based on IP Address, Phone Number, and Email Address.
 

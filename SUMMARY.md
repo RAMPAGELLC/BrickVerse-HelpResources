@@ -57,3 +57,4 @@
 * [Legal Links](legal/legal-links.md)
 * [Term's Of Service](legal/terms-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
+* [Purchase Agreement](legal/purchase-agreement.md)

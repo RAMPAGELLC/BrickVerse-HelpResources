@@ -1,5 +1,9 @@
 # Privacy Policy
 
+Effective: October 16th, 2023
+
+Last Updated: October 16th, 2023
+
 ## Introduction
 
 We care a lot about your privacy. This is why we think with privacy in mind when adding any feature to our platform. In order to provide you our services, we need to store some basic information about your account.
@@ -24,13 +28,15 @@ This platform stores your username(s), e-mail address(es) IP address and passwor
 
 ## Two Step Verification
 
-If your account has Two Step Verification enabled, we store a random set of characters that represent your private key that is being used to generate a randomized 6 digit code every 30 seconds. This private key is stored in an encrypted form and if a breach occurs, your private key is not at risk. We encourage our users to never share their private key with anyone, because it can also be used to reset their passwords using the reset password with two step verification feature if their account does not disallow it.
+If your account has Two Step Verification enabled, we store a random set of characters that represent your private key that is being used to generate a randomized 6 digit code every 30 seconds. This private key is stored in an encrypted form and if a breach occurs, your private key is not at risk.&#x20;
+
+We encourage our users to never share their private key with anyone, because it can also be used to reset their passwords using the reset password with two step verification feature if their account does not disallow it.
 
 ## Content voluntarily posted by our users
 
-We store user generated content posted voluntarily by our users to provide our users with user generated content. This content may include forum posts or user created items in our store. The amount of content that is stored in this category depends on the amount of content an user decides to share with our community. W
+We store user generated content posted voluntarily by our users to provide our users with user generated content. This content may include forum posts or user created items in our store. The amount of content that is stored in this category depends on the amount of content an user decides to share with our community.&#x20;
 
-e highly encourage our users to never post any personal content. If you want your information removed because you (accidentally) posted such information, please contact our support team at [support@brickverse.co](mailto:support@BrickVerses.co) for assistance. Some content have ability to be deleted by yourself.
+We highly encourage our users to never post any personal content. If you want your information removed because you (accidentally) posted such information, please contact our support team at help.brickverse.co for assistance. Some content have ability to be deleted by yourself.
 
 ## Statistics, scores, virtual currency and counts
 
