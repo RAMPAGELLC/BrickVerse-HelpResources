@@ -62,3 +62,4 @@
 * [Term's Of Service](legal/terms-of-service.md)
 * [Privacy Policy](legal/privacy-policy.md)
 * [Purchase Agreement](legal/purchase-agreement.md)
+* [Virtual Currency Policy](legal/virtual-currency-policy.md)

@@ -20,7 +20,15 @@ All users of the site, including but not limited to the employees must agree and
 
 If you do not agree to the Terms of Service, then you are prohibited to not use our platform in any shape or form until acceptance of our Term's Of Service.
 
-By accepting the Terms Of Service you agree to the Privacy Policy, Purchase Agreement, Refund Policy.
+By accepting the Terms Of Service you agree to the Privacy Policy, Purchase Agreement, Refund Policy, and Virtual Currency Policy.
+
+When BrickVerse releases amendments to Term's Of Service, Privacy Policy, new policy creation, etc. it's your duty to review these changes. If you disagree with new agreements you are to immediately cease usage of BrickVerse. We typically will put out a notice of the new changes, by E-mail, site banner, site and/or device notification, phone texts, etc.
+
+BrickVerse's Link Phone feature is designed to facilitate communication among users within our virtual environment. It allows for text messaging/notifications, fostering connections and interactions. Users should be aware that while using this feature, any text messages sent through the Link Phone may be subject to standard text messaging fees, depending on their mobile service provider's terms and conditions. BrickVerse cannot be held responsible for any costs or fees related to text messaging, data usage, or any other charges incurred by users when utilizing the Link Phone feature.&#x20;
+
+By using the Link Phone feature, users agree to release BrickVerse from any liability associated with phone text fees or any other financial obligations arising from its usage.&#x20;
+
+Usage of Link Phone incurs charges requiring a Membership Plan. Monthly with your BrickVerse Membership plan you will be given a set limit of text messages. If you exceed that limit for the month, messages will no longer be sent till your plan is renewed again for the next month. You won't be charged anything, its included with membership pricing by default.
 
 ## Your acceptance of the Privacy Policy
 
