@@ -55,3 +55,5 @@ In conclusion, the introduction of Cubes as our virtual currency adds a new dime
 **11. Exchange Rates**
 
 The current rates is 100 Cubes  = $1 USD.
+
+In simple terms, when you receive Cubes in BrickVerse, you can use them right away for various transactions. However, if you wish to convert them into real-world currency (USD) through DevEx, you'll need to wait for one week after receiving them. It's important to note that whether you spend your Cubes during the eligibility period or not, the amount you spent will be deducted from your DevEx Balance or pending balance. When you sell items and receive Cubes for them, you'll get the full amount based on the item's sale. The only part you'll lose is a percentage of the Cubes' value due to DevEx taxes when you decide to cash them out into USD.
