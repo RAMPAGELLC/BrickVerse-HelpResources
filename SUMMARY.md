@@ -5,6 +5,7 @@
 ## General
 
 * [Accounts](general/accounts/README.md)
+  * [How to Manage Multiple Devices on BrickVerse.gg](general/accounts/how-to-manage-multiple-devices-on-brickverse.gg.md)
   * [Digital Services Act - Information on Average Monthly Active Recipients in the European Union](general/accounts/digital-services-act-information-on-average-monthly-active-recipients-in-the-european-union.md)
   * [Enhancing Safety with Government Identification Verification (GIV)](general/accounts/enhancing-safety-with-government-identification-verification-giv.md)
   * [Automated ("Bot") Accounts](general/accounts/automated-bot-accounts.md)
