@@ -2,7 +2,7 @@
 
 Effective: October 16th, 2023
 
-Last Updated: October 16th, 2023
+Last Updated: October 23rd, 2023
 
 ## Introduction
 
@@ -20,7 +20,7 @@ All users of the site, including but not limited to the employees must agree and
 
 If you do not agree to the Terms of Service, then you are prohibited to not use our platform in any shape or form until acceptance of our Term's Of Service.
 
-By accepting the Terms Of Service you agree to the Privacy Policy, Purchase Agreement, Refund Policy, and Virtual Currency Policy.
+**By accepting the Terms Of Service you agree to** the Privacy Policy, Purchase Agreement, Refund Policy, Virtual Currency Policy, BrickVerse.gg Account and Billing Information Disclosure Policy, Digital Services Act - Information on Average Monthly Active Recipients in the European Union, Inactive account deletion policy, and other policy's & amendments created by BrickVerse.gg.
 
 When BrickVerse releases amendments to Term's Of Service, Privacy Policy, new policy creation, etc. it's your duty to review these changes. If you disagree with new agreements you are to immediately cease usage of BrickVerse. We typically will put out a notice of the new changes, by E-mail, site banner, site and/or device notification, phone texts, etc.
 

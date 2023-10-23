@@ -25,6 +25,7 @@
     * [Automated Bot](general/general/official-badges-faq/automated-bot.md)
   * [Developer Program](general/general/developer-program.md)
 * [Moderation](general/moderation/README.md)
+  * [BrickVerse.gg Account and Billing Information Disclosure Policy](general/moderation/brickverse.gg-account-and-billing-information-disclosure-policy.md)
   * [Ensuring Accurate and Responsible Moderation: BrickVerse.gg's Weekly Audits](general/moderation/ensuring-accurate-and-responsible-moderation-brickverse.ggs-weekly-audits.md)
   * [Automatic Account Moderation at BrickVerse.gg](general/moderation/automatic-account-moderation-at-brickverse.gg.md)
   * [Account Closure Email Notifications at BrickVerse.gg](general/moderation/account-closure-email-notifications-at-brickverse.gg.md)
@@ -62,6 +63,7 @@
 
 ## legal
 
+* [Digital Millennium Copyright Act (DMCA) Policy](legal/digital-millennium-copyright-act-dmca-policy.md)
 * [DMCA Takedown](legal/dmca-takedown.md)
 * [Legal Links](legal/legal-links.md)
 * [Term's Of Service](legal/terms-of-service.md)
