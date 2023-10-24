@@ -63,6 +63,7 @@
 
 ## legal
 
+* [Donation Agreement](legal/donation-agreement.md)
 * [Digital Millennium Copyright Act (DMCA) Policy](legal/digital-millennium-copyright-act-dmca-policy.md)
 * [DMCA Takedown](legal/dmca-takedown.md)
 * [Legal Links](legal/legal-links.md)
