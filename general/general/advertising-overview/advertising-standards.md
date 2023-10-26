@@ -244,7 +244,7 @@ Ads must not promote or solicit pest control or insecticide products or services
 
 Ads must not promote or solicit donations for an external charitable cause.&#x20;
 
-Ads must not claim that a transaction on Roblox is associated with an off-platform fundraiser.
+Ads must not claim that a transaction on BrickVerse.gg is associated with an off-platform fundraiser.
 
 **Mature Media:**&#x20;
 
