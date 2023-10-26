@@ -16,6 +16,7 @@
   * [My Email Domain is Blacklisted?](general/registration/my-email-domain-is-blacklisted.md)
   * [Why Is My Username Blacklisted?](general/registration/why-is-my-username-blacklisted.md)
 * [General](general/general/README.md)
+  * [Official Staff Communication & Player Safety](general/general/official-staff-communication-and-player-safety.md)
   * [UGC Program](general/general/ugc-program.md)
   * [Official Badges FAQ](general/general/official-badges-faq/README.md)
     * [Verified](general/general/official-badges-faq/verified.md)
