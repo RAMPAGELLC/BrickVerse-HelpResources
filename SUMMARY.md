@@ -64,6 +64,7 @@
 
 ## legal
 
+* [Credits and Attributions](legal/credits-and-attributions.md)
 * [BrickVerse API Falsified Data Usage Policy](legal/brickverse-api-falsified-data-usage-policy.md)
 * [World Developer Agreement](legal/world-developer-agreement.md)
 * [Donation Agreement](legal/donation-agreement.md)
