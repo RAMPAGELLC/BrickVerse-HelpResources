@@ -25,6 +25,9 @@
     * [Administrator](general/general/official-badges-faq/administrator.md)
     * [Automated Bot](general/general/official-badges-faq/automated-bot.md)
   * [Developer Program](general/general/developer-program.md)
+  * [Advertising Overview](general/general/advertising-overview/README.md)
+    * [Advertising Standards](general/general/advertising-overview/advertising-standards.md)
+    * [Complying with Advertising Standards](general/general/advertising-overview/complying-with-advertising-standards.md)
 * [Moderation](general/moderation/README.md)
   * [BrickVerse.gg Account and Billing Information Disclosure Policy](general/moderation/brickverse.gg-account-and-billing-information-disclosure-policy.md)
   * [Ensuring Accurate and Responsible Moderation: BrickVerse.gg's Weekly Audits](general/moderation/ensuring-accurate-and-responsible-moderation-brickverse.ggs-weekly-audits.md)
@@ -64,7 +67,7 @@
 
 ## legal
 
-* [Credits and Attributions](legal/credits-and-attributions.md)
+* [Biometric Privacy Notice](legal/biometric-privacy-notice.md)
 * [BrickVerse API Falsified Data Usage Policy](legal/brickverse-api-falsified-data-usage-policy.md)
 * [World Developer Agreement](legal/world-developer-agreement.md)
 * [Donation Agreement](legal/donation-agreement.md)
@@ -75,3 +78,7 @@
 * [Privacy Policy](legal/privacy-policy.md)
 * [Purchase Agreement](legal/purchase-agreement.md)
 * [Virtual Currency Policy](legal/virtual-currency-policy.md)
+
+***
+
+* [Credits and Attributions](credits-and-attributions.md)

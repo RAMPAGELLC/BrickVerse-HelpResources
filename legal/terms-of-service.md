@@ -22,6 +22,234 @@ If you do not agree to the Terms of Service, then you are prohibited to not use 
 
 When BrickVerse releases amendments to Term's Of Service, Privacy Policy, new policy creation, etc. it's your duty to review these changes. If you disagree with new agreements you are to immediately cease usage of BrickVerse. We typically will put out a notice of the new changes, by E-mail, site banner, site and/or device notification, phone texts, etc.
 
+## Safety
+
+In the BrickVerse.gg community, we aim to foster a space where individuals can connect with optimism and civility, regardless of their background, beliefs, or identity. Our commitment to this vision means that certain behaviors and content are strictly prohibited to ensure that everyone feels comfortable and respected. Here are the guidelines for conduct and content within our community:
+
+**Sharing Personal Information**
+
+In order to safeguard privacy and security, users must refrain from sharing their own personal information or soliciting personal information and unique identifiers from others on BrickVerse. This includes, but is not limited to, the following:
+
+* Email addresses
+* Passwords or access tokens
+* Home addresses or physical locations
+* Financial information, including credit card and bank account details
+* Medical information
+* Telephone numbers
+* Internet Identifiers such as usernames and handles not linked to BrickVerse
+* Unique Identifiers such as social security numbers
+* Images of themselves or other non-public figures
+* Real names, except as permitted in display names for eligible users
+* Any personally identifiable information relating to minors, including unauthorized images, voice recordings, and video recordings.
+
+\
+**Misusing BrickVerse Systems**
+
+BrickVerse upholds various systems to ensure the safety and security of our users. We strictly prohibit any attempts to circumvent these systems, gain unauthorized access to BrickVerse or others' BrickVerse accounts or information, or otherwise violate our platform's security requirements. These violations include:
+
+**Evading Safety and Security Systems**
+
+* Trying to bypass our safety systems to get prohibited content through, including concealing elements of assets that violate our rules.
+* Creating or using an account to evade enforcement actions taken against another account.
+* Utilizing VPNs to obscure your location in order to gain unauthorized access to BrickVerse, including specific features or accounts.
+* Offering access to your BrickVerse account or soliciting access to someone else's BrickVerse account with the intention of evading enforcement actions or safety systems.
+* Neglecting to use the required PolicyService APIs in your experience.
+
+**Disruptive Content and Behavior**
+
+* Employing bots that are programmed to execute disruptive tasks.
+* Uploading content that contains obfuscated code or hidden scripts designed to mislead end users or create disruptive experiences for them.
+* Injecting background noise into underlying audio, making the intended audio unintelligible.
+* Injecting excessive loudness, screaming, or harsh noises that disrupt others' experiences, whether in uploaded audio or through chat with voice.
+* Falsely reporting other users or experiences or encouraging others to do so.
+* Invading or flooding experiences or groups with the intent to disrupt the experience or damage its reputation.
+
+**Child Safety and Well-being**
+
+&#x20;At BrickVerse, we have a zero-tolerance policy for any actions that endanger minors. This includes but is not limited to:
+
+* Engaging in predatory behavior, such as attempting to befriend a minor with the intention of manipulating or exploiting them (commonly known as grooming).
+* Sexualizing minors in any form.
+* Initiating sexual conversations with or soliciting sexual material from minors.
+* Sharing, requesting, or discussing child sexual exploitation material.
+
+**Terrorism and Violent Extremism**&#x20;
+
+We unequivocally disallow any content or behavior that incites, condones, supports, glorifies, or promotes terrorism, extremism, or individuals/organizations associated with these ideologies. This includes but is not limited to:
+
+* Depictions of or support for terrorist or extremist attacks.
+* Depictions of or support for leaders or representatives of terrorist or extremist organizations.
+* Sharing slogans, images, flags, manifestos, or icons associated with terrorist or extremist organizations.
+* Referencing the ideologies, messages, or strategies of terrorist and extremist organizations.
+* Expressing support, condoning, or glorifying terrorist extremist ideologies or actions.
+* Recruiting members for a terrorist or extremist organization or encouraging others to leave BrickVerse.gg to seek such information.
+* Fundraising for terrorist or extremist organizations, individuals, or supporting groups.
+* Expressing support, condoning, or glorifying mass shootings and other acts of domestic terrorism or violent extremism.
+
+**Threats, Bullying, and Harassment**
+
+We do not tolerate any form of threats, bullying, harassment, or intimidation, whether in real life or online. This includes:
+
+* Threatening physical or sexual assault or violence.
+* Threatening real-life harm to someone.
+* Revealing or threatening to reveal personal information about others.
+* Threatening to take over another user's BrickVerse.gg account or filing false abuse reports against them.
+* Singling out a user or group for ridicule or abuse, whether publicly or privately.
+* Sexual harassment.
+* Impersonating individuals, groups, or entities in ways that could harm their reputation or incite harm to them, either online or in real life.
+
+**Suicide, Self-Injury, and Harmful Behavior**
+
+We are deeply committed to our users' well-being and may communicate with authorities in the case of credible threats of self-harm. Consequently, we prohibit content or behavior that depicts, glorifies, or encourages suicide, self-injury, or activities that pose an extreme risk of physical harm, including:
+
+* Describing methods for suicide or self-harm.
+* Content that glorifies, supports, or depicts instances or methods of suicide or self-harm.
+* Dangerous physical challenges or stunts in the real world.
+
+If you or someone you know is struggling with thoughts of suicide or self-harm, help is available. Reach out to a suicide prevention hotline or seek global resources to find support.
+
+**Discrimination, Slurs, and Hate Speech**
+
+BrickVerse welcomes and respects users of all backgrounds and identities. We strictly prohibit content or behavior that supports, glorifies, or promotes hate groups, their ideologies, or actions. Discrimination or hatred against individuals or groups based on the following factors is not allowed:
+
+* Age
+* Race, perceived race, or ethnicity
+* National origin
+* Sexual orientation
+* Gender, gender identity, or gender expression
+* Religion or religious affiliation or beliefs
+* Disability status, including diseases, bodily conditions, disfigurement, mobility issues, and mental impairment
+* Physical or mental disability status
+* Veteran status
+* Caste
+* Familial status
+
+**Harmful Off-Platform Behavior**
+
+We emphasize treating all individuals with respect, both within and outside of BrickVerse.gg. We may take action against users who, among other things:
+
+* Are associated with organized crime, terrorist or extremist organizations, or hate groups.
+* Harass, bully, discriminate against, or harm others outside of our platform.
+* Share others' personal information off-platform, including making false reports to authorities.
+* Have been convicted of certain egregious crimes, engage in certain illegal activities, or encourage others to do so.
+
+## Civility&#x20;
+
+Civility is the cornerstone of the BrickVerse.gg community. To uphold our civil environment, certain types of content are prohibited to ensure a respectful atmosphere. These guidelines include:
+
+**Real-World Sensitive Events:** BrickVerse.gg prohibits content that replicates specific real-world sensitive events, ridicules victims, glorifies or supports perpetrators or their outcomes, or exploits these events for commercial purposes. This encompasses content relating to:
+
+* Mass acts of violence against people or property
+* Specific real-world natural disasters
+* Human and civil rights violations
+
+**Violent Content and Gore:** While some experiences on BrickVerse.gg may include elements of weaponry and violence, we do not allow content that contains extreme violence or depicts severe physical or psychological abuse. This includes:
+
+* Animal abuse and torture
+* Realistic or real-world depictions of extreme gore, extreme graphic violence_._
+
+**Romantic and Sexual Content:** BrickVerse.gg provides a safe space for meeting online friends, chatting, and collaborating on creative projects. However, we prohibit content that depicts sexual activity or seeks real-world romantic relationships, including:
+
+* Romantic or flirtatious interactions between users in a romantic context
+* Pursuing or soliciting romantic relationships online
+* Engaging in unwanted flirtatious behavior
+* Engaging in sexually explicit conversations or soliciting sexual material from other members
+* Content that portrays, strongly suggests, or explicitly describes sexual acts
+* Nudity and sexually suggestive avatar bodies and clothing items _For guidance on creating Avatar Bodies that comply with these policies, including the use of modesty layers, please consult our guidelines._
+
+**Illegal and Regulated Goods and Activities:** Users are not allowed to discuss or participate in illegal activities or encourage others to do so on BrickVerse.gg. Additionally, the discussion, depiction, or promotion of certain illegal and regulated goods or activities is prohibited. This includes:
+
+* Controlled substances such as pharmaceutical and recreational drugs, alcohol, tobacco, vaping, and their related paraphernalia
+* Dietary supplements and enhancers like weight loss pills and steroids
+* Depictions of intoxicated behavior associated with alcohol or drug consumption
+* Promoting illegal and regulated substances
+* Instructions or schematics for bomb/explosive and weapon-making in the real world
+* Realistic modern firearms outside of in-experience items
+* On-platform contests offering Cubes or other valuable prizes
+* Sweepstakes-style games _Subject to local law or regulation, gambling portrayal is allowed within experiences. However, no real money, Cubes, or valuable in-experience items may be exchanged in connection with gambling activities. Fair odds must be disclosed to users before playing._
+
+**Profanity:** In order to maintain a safe and civil environment, swearing in any language, whether in text, images, or uploaded audio, is not allowed on BrickVerse.gg. This includes:
+
+* Using misspellings, special characters, or other methods to evade profanity detection
+* Quoting or using audio with profane lyrics
+
+**Political Content:** While we encourage friendly debate on matters important to BrickVerse.gg members, we prohibit the discussion or depiction of certain political content to ensure a respectful environment. This includes:
+
+* Current candidates running for public office, along with their slogans, campaign material, rallies, or events
+* Political parties and official party-affiliated organizations
+* Specific races for elected office
+* Current real-world elected officials
+* Former officials in their official capacity
+* Individuals who have previously run for political office as candidates
+* Desecration of political entity symbols, including flag burning
+* Inflammatory content related to real-world border, territorial, or jurisdictional relationships
+
+**Cheating and Scams:** At BrickVerse.gg, we maintain strict regulations to prevent users from engaging in deceptive practices or cheating methods on our platform. This includes:
+
+* Employing exploits to gain an unfair advantage anywhere within the platform.
+* Sharing exploits with others or encouraging them to cheat.
+* Selling items with descriptions that are misleading or inaccurate.
+* Falsely representing your real or virtual identity in an attempt to deceive others.
+* Unauthorized attempts to access another user's account.
+* Sharing deceptive links aimed at obtaining unauthorized access to others' accounts or information, whether on BrickVerse.gg or elsewhere (commonly referred to as phishing).
+
+**Spam:** BrickVerse.gg prohibits any activities that disrupt or mislead others on the platform, including:
+
+* The use of deceptive, sensational, or otherwise misleading content or metadata to artificially boost discoverability or engagement.
+* Sending repetitive messages to other users or making repetitive uploads to BrickVerse.gg systems.
+* Creating experiences with the sole purpose of redirecting users off the BrickVerse.gg platform.
+
+## User Advertising
+
+**Independent Advertisement Publishing**
+
+In lieu of using BrickVerse Immersive Ads, developers have the option to independently publish advertising content within their experiences. In such cases, the developer is responsible for directly uploading and controlling the delivery of the advertising content. It is vital to adhere to the following rules, in addition to all BrickVerse regulations, including the Terms of Use, Advertising Standards, and other Community Standards, as well as applicable laws and regulations. Failure to comply may result in action taken by us, such as content removal, experience suspension, or account suspension.
+
+* Developers must maintain complete control over independent advertisement publishing. Experiences displaying independent ads must not make programmatic calls to third-party advertising services.
+* Developers are prohibited from sharing personally identifiable user engagement information with advertisers and must comply with the Creator Analytics Terms of Use and BrickVerse Terms of Use in their handling of all user information.
+* Developers must refrain from displaying advertising content to users under the age of 13. To accomplish this, developers should utilize BrickVerse tools, such as the AreAdsAllowed boolean in the PolicyService API, to replace, hide, or block access to advertising content for users not allowed to view ads.
+
+_Note: Applying a 13+ Experience Guideline does not hide ad content from users under the age of 13. All ad content must be hidden using the PolicyService API._
+
+* Developers must clearly and prominently disclose to users when content is an advertisement, using straightforward and understandable language. A reference to the advertiser's name alone is insufficient. Acceptable disclosure language includes terms like "ad," "paid," or "sponsored." This disclosure should be placed in or near the advertising content, ensuring it's noticeable and comprehensible to users.
+* Developers are not allowed to mislead users into thinking that they are engaging with BrickVerse served Ads.
+* Developers should not reuse or repurpose BrickVerse Immersive Ad content.
+* Advertisements should not falsely represent the content being advertised to encourage user engagement (e.g., offering free Cubes).
+
+For more detailed information on how to independently advertise, please consult our [Creator guidance](../general/general/advertising-overview/complying-with-advertising-standards.md).
+
+**Prohibited Advertising Practices and Content**
+
+All advertisements on BrickVerse must adhere to BrickVerse's Advertising Standards. Creator guidance for complying with these standards can be found [here](../general/general/advertising-overview/complying-with-advertising-standards.md).
+
+**BrickVerse Economy**
+
+BrickVerse maintains the Cube system for everyone’s benefit and enjoyment. To keep it fair for everyone, some activity in the BrickVerse Economy is prohibited, including:
+
+* Using third-party services to buy, sell, trade, or give away Cubes (including BrickVerse gift cards).
+* Engaging in off-platform, secondary market transactions for account access or virtual content from experiences or Marketplace (unless done by account holders as part of a verifiable agreement).
+* Using the group payout system in a fraudulent or misleading manner, including offering payment in Cubes for modeling assets, joining groups, referring members, or role-playing in experiences.
+
+**Promotional Offers**
+
+Developers are permitted to use off-platform services or products to sell on-platform items (including exclusive features or in-experience enhancements) for money, directly or bundled.
+
+Cubes are not permitted on off-platform services/products.
+
+**Soliciting Donations:** Our community is not allowed to solicit donations for charitable causes on BrickVerse, including:
+
+* In-experience prompts for users to donate Cubes toward crowdfunding campaigns.
+* Claiming that a transaction is associated with a fundraiser.
+* Stating that a portion of sales proceeds will be directed toward a cause.
+
+_Note: Developers may implement in-experience Cubes transactions to allow users to express appreciation for the experience or generously reward a creator (e.g., a "tip jar" feature), provided it's clear that users receive nothing in return for their payment._
+
+**Paid Random Items:** Paid random item generators include those purchased with Cubes directly or via in-experience currencies acquired with Cubes.
+
+* Users are not permitted to trade or sell the resulting assets from paid random item generators for Cubes, real currency, or any other valuable item on BrickVerse.
+* Creators must utilize the relevant PolicyService API to ensure paid random items are only accessible by eligible users.
+* The odds of receiving each possible resulting item must be accurately disclosed to the eligible user before the moment of purchase.
+
 ## SMS Communication
 
 BrickVerse's Link Phone feature is designed to facilitate communication among users within our virtual environment. It allows for text messaging/notifications, fostering connections and interactions. Users should be aware that while using this feature, any text messages sent through the Link Phone may be subject to standard text messaging fees, depending on their mobile service provider's terms and conditions. BrickVerse cannot be held responsible for any costs or fees related to text messaging, data usage, or any other charges incurred by users when utilizing the Link Phone feature.&#x20;
