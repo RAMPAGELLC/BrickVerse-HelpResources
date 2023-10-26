@@ -24,6 +24,7 @@
     * [Government Official](general/general/official-badges-faq/government-official.md)
     * [Administrator](general/general/official-badges-faq/administrator.md)
     * [Automated Bot](general/general/official-badges-faq/automated-bot.md)
+    * [Astro](general/general/official-badges-faq/astro.md)
   * [Developer Program](general/general/developer-program.md)
   * [Advertising Overview](general/general/advertising-overview/README.md)
     * [Advertising Standards](general/general/advertising-overview/advertising-standards.md)
