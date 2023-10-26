@@ -63,6 +63,8 @@
 
 ## legal
 
+* [BrickVerse API Falsified Data Usage Policy](legal/brickverse-api-falsified-data-usage-policy.md)
+* [World Developer Agreement](legal/world-developer-agreement.md)
 * [Donation Agreement](legal/donation-agreement.md)
 * [Digital Millennium Copyright Act (DMCA) Policy](legal/digital-millennium-copyright-act-dmca-policy.md)
 * [DMCA Takedown](legal/dmca-takedown.md)
