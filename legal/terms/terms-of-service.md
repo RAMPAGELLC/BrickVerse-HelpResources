@@ -2,7 +2,7 @@
 
 Effective: October 16th, 2023
 
-Last Updated: October 25th, 2023
+Last Updated: October 30th, 2023
 
 ## Introduction
 
@@ -244,7 +244,9 @@ Cubes are not permitted on off-platform services/products.
 * Claiming that a transaction is associated with a fundraiser.
 * Stating that a portion of sales proceeds will be directed toward a cause.
 
-_Note: Developers may implement in-experience Cubes transactions to allow users to express appreciation for the experience or generously reward a creator (e.g., a "tip jar" feature), provided it's clear that users receive nothing in return for their payment._
+{% hint style="success" %}
+_Developers may implement in-experience Cubes transactions to allow users to express appreciation for the experience or generously reward a creator (e.g., a "tip jar" feature), provided it's clear that users receive nothing in return for their payment._
+{% endhint %}
 
 **Paid Random Items:** Paid random item generators include those purchased with Cubes directly or via in-experience currencies acquired with Cubes.
 
@@ -291,9 +293,9 @@ By using our platform, you agree to not use our platform to perform any of the f
 11. Discriminatory Speech or Actions are strictly not allowed on the platform, including based off, race or ethnic origin, national origin, religion or religious affiliation, disability or disease, gender, gender identity, or sexual orientation, age, or veteran status.
 12. We will block inappropriate content including clothing with red arm bands, Nazi Swastikas, Confederate flags, and Ugandan Knuckles memes.
 
-BrickVerse reserves the right to remove any content from our platform, including but not limited to your account for any reason at any time. In addition to that, we also reserve the right to preserve deleted content or information required for law enforcement or to otherwise comply with the Terms of Service.
+BrickVerse reserves the right to remove any content from our platform, including but not limited to your account for any reason at any time. In addition to that, we also reserve the right to preserve deleted content or information required for law enforcement or to otherwise comply with the Terms of Service. Code of Conduct is not the full rule book, please abide by the Community Guidelines for additional ruleset.
 
-BrickVerse will fully cooperate with law enforcement regardless of warrant or not. RAMPAGE Interactive actively works with Law Enforcement, and will hand over all data upon request.
+BrickVerse will fully cooperate with law enforcement regardless of warrant or not. RAMPAGE Interactive actively works with Law Enforcement, and will hand over all data upon legal request.
 
 ## Brand and Asset Usage
 
@@ -365,6 +367,32 @@ You should be aware that we retain the right to determine the value of Cubes at 
 In summary, our management of Cubes is subject to our sole discretion, and your use of this virtual currency and its associated features is governed by these terms and conditions. We urge users to adhere to the designated boundaries for Cubes use within our Service to ensure a fair and secure environment for all.
 
 ## Billing
+
+### Transactions
+
+#### Account Usage and Asset Transactions
+
+a. All BrickVerse accounts, features, and assets are designated for use exclusively on our website. Users are strictly prohibited from selling assets obtained from our website for real-life currency outside of the provided features. Any transactions conducted outside of the features we provide will not be eligible for refunds.
+
+b. Users are explicitly prohibited from using credit cards or other forms of payment without obtaining prior permission from the card or account holder.
+
+#### Payment Policy
+
+a. All payments made to BrickVerse are considered final, and refunds will only be granted at our sole and absolute discretion. If you believe an unauthorized payment has been made on your account to BrickVerse, you are required to promptly contact us.
+
+b. Prior consent from the account holder is mandatory for the use of payment methods on brickverse.com. In the absence of such permission, BrickVerse reserves the right to terminate services or accounts associated with unauthorized purchases. Accounts linked with "chargebacks" (payments canceled or voided by banks or card authorizers) will be subject to immediate termination, with subsequent access to your account suspended. Refunds will not be issued for previously purchased memberships, assets, or services.
+
+#### Claims and Timely Reporting
+
+a. To the maximum extent permitted by applicable law, you hereby waive all claims against BrickVerse relating to payments unless you submit the claim to us within 45 days after the charge was initiated.
+
+#### Refund Currency and Discretion
+
+a. It is important to note that, at the sole discretion of BrickVerse any and all refunds will be issued in U.S. dollars.
+
+#### Compliance and Enforcement
+
+a. BrickVerse reserves the right to enforce and maintain the integrity of these terms and conditions, with violations potentially resulting in the termination of accounts or services. It is vital for users to comply with these guidelines to ensure a fair and secure environment for all participants on our platform.
 
 ### Membership Subscription Renewal&#x20;
 
@@ -457,9 +485,37 @@ We hold a profound respect for the intellectual property rights of individuals, 
 
 All notifications must be submitted pursuant to the Digital Millennium Copyright Act ("**DMCA**") by contacting our copyright agent at dmca.brickverse.gg. You acknowledge that if you do not comply with all requirements listed here, your DMCA notice may be invalid.
 
+## Warranty Disclaimers
+
+You hereby explicitly acknowledge and agree to the following provisions concerning the use of BrickVerse, Inc. services and software:
+
+A. Your utilization of BrickVerse services and software is undertaken solely at your own risk. Our services and software are provided on an "as is" and/or "as available" basis. BrickVerse, along with our subsidiaries, affiliates, officers, directors, employees, agents, partners, and licensors, expressly disclaims any and all warranties, whether expressed or implied, including but not limited to implied warranties of title, merchantability, fitness for a particular purpose, and non-infringement.
+
+B. BrickVerse, along with our subsidiaries, officers, employees, directors, agents, partners, and licensors, makes no warranties regarding&#x20;
+
+(i) whether BrickVerse, Inc. services or software will meet your requirements;&#x20;
+
+(ii) whether BrickVerse, Inc. services will be uninterrupted, timely, secure, or error-free;&#x20;
+
+(iii) the accuracy or reliability of results obtained from the use of BrickVerse services or software;&#x20;
+
+(iv) the quality of any products, services, information, or other materials that may be purchased or obtained through our services or software will meet your expectations; and&#x20;
+
+(v) whether any errors in the software will be corrected.
+
+C. Any information or material downloaded or obtained through BrickVerse services or software is accessed at your sole discretion and risk. Consequently, you shall be solely responsible for and hereby waive any and all claims and causes of action regarding any damage to your computer and/or internet access, downloading and/or displaying, or any loss of data that may result from downloading such information or material.
+
+D. No advice and/or information, regardless of whether it is written or oral, that you obtain from BrickVerse or through our services or software, shall create any warranty not expressly stated in our Terms of Service.
+
+E. It is possible that a small percentage of users may experience epileptic seizures when exposed to certain light patterns or backgrounds on a computer screen or while using our services. Specific conditions may induce a previously unknown condition or undetected epileptic symptoms in users who have no prior history of seizures or epilepsy. If you, someone you know, or a family member has an epileptic condition, please consult a physician if you experience any of the following symptoms while using our services: dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, involuntary movement, or convulsions.
+
 ## Liability Limitations
 
 SUBJECT TO APPLICABLE LAW, IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF OUR SITE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO US DURING THE SIX (6) MONTH PERIOD PRIOR TO ANY CAUSE OF ACTION ARISING.
+
+Moreover, you acknowledge, comprehend, and consent to the following provision regarding liability limitations: REGARDLESS OF ANY STATUTE OR LEGAL PROVISION TO THE CONTRARY, OUR LIABILITY TO YOU FOR ANY CLAIM OR LEGAL ACTION ARISING FROM OR CONNECTED TO YOUR UTILIZATION OF OUR SERVICES OR THE TERMS OF SERVICE (TOS) SHALL BE SUBJECT TO THE FOLLOWING LIMITATIONS. ANY SUCH CLAIM OR CAUSE OF ACTION MUST BE INITIATED WITHIN ONE YEAR FROM THE DATE ON WHICH IT FIRST AROSE, OR IT SHALL FOREVER BE CONSIDERED VOID AND UNENFORCEABLE.&#x20;
+
+We have implemented this stipulation to safeguard the integrity of our operations and legal proceedings while ensuring that our liability is restricted as specified herein.
 
 ## California Users and Residents
 
@@ -468,6 +524,30 @@ If any complaint with us is not satisfactorily resolved, you may contact the Com
 ## Electronic Communications Consent
 
 By visiting our Site, sending us emails, completing online forms, or using any part of our Service, you consent to receive electronic communications from us that are further outlined in our privacy policy. You agree that all agreements, notices, disclosures, and other communications we provide to you electronically via email or on our Site, satisfy any legal requirement that such communication be in writing. You hereby agree to the use of electronic signatures, contracts, orders, and other records, and to electronically delivery of notices, policies, and records of transactions initiated or completed by us via our Site. You also waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in jurisdiction which require an original signature or deliver or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
+
+## **General Usage and Storage Practices**
+
+1.  **User Practices and Limitations:**
+
+    You hereby recognize that BrickVerse may establish certain practices and limitations governing the use of our Services, including but not limited to, the maximum duration for which any message posting or uploaded content shall be retained by BrickVerse the maximum number of messages that may be sent and received by any member, the maximum size of messages sent or received, the maximum disk space allocated on BrickVerse servers on behalf of the member, and the maximum frequency and duration of member access to our Services within a specified time period. Additionally, you consent that BrickVerse bears no responsibility or liability for the removal or failure to retain messages, communications, or content transmitted or stored through our Services. You also acknowledge our right to delete or remove accounts that have remained inactive for an extended period. Furthermore, BrickVerse reserves the right to modify, alter, or update these general practices and limitations at our discretion.
+2.  **Message Storage and Accessibility:**
+
+    Any messaging service, including web-based versions, provides you and your communication partners with the capability to save your conversations in your account located on BrickVerse servers. This functionality allows you to access and search your message history from any computer with internet access. You also acknowledge that others have the option to use and save conversations with you in their personal accounts on brickverse.com. Your acceptance of this Terms of Service implies your consent for BrickVers to store all communications on its servers. This feature enhances your convenience and ensures seamless access to your messaging history while using our Services.
+
+## **Interactions with Advertisers and Third Parties**
+
+Any correspondence, transactions, or engagements with advertisers found on or through our Services, including payments for and delivery of goods or services, and any other terms, conditions, warranties, or representations associated with such interactions, are exclusively between you and the respective advertiser. You further consent and acknowledge that BrickVerse bears no responsibility or liability for any losses or damages of any kind incurred as a direct consequence of these interactions or the presence of such advertisers on our website.
+
+It is imperative to recognize that BrickVerse, Inc. acts as a platform for connecting users with advertisers and third parties, but the terms and outcomes of any transactions or agreements are beyond our control. Therefore, users are encouraged to exercise diligence and caution when engaging in such dealings and to review the terms and policies provided by advertisers and third parties to fully understand their obligations and rights. BrickVerse is not a party to these interactions, and any issues or disputes that may arise should be resolved directly between the involved parties.
+
+## Proprietary Rights
+
+1.  **Acknowledgment of Proprietary Material:**
+
+    You hereby acknowledge and agree that BrickVerse's Services and any essential software used in conjunction with our services (referred to as **"Software"**) contain proprietary and confidential material protected by relevant intellectual property rights and other applicable laws. Additionally, you recognize and agree that any Content, including advertisements and information presented through our Services or by advertisers, is safeguarded by copyrights, trademarks, patents, or other proprietary rights and laws. Consequently, you commit to refrain from altering, modifying, leasing, renting, loaning, selling, distributing, transmitting, broadcasting, publicly performing, or creating derivative works based on BrickVerse, Inc. Services (e.g., **Content or Software**) in whole or in part, except as expressly permitted by applicable law or authorized by BrickVerse, Inc. or the relevant licensor.
+2.  **License for Software Usage:**
+
+    BrickVerse grants you a personal, non-transferable, and non-exclusive license to use the object code of our Software on a single computer, provided that you do not, and shall not, permit any third party to duplicate, alter, modify, create derivative works from, reverse engineer, reverse assemble, or attempt to locate or decipher any source code, sell, assign, sublicense, grant a security interest in, or otherwise transfer any such rights in the Software. Moreover, you agree not to alter or change the Software in any manner, nature, or form, and therefore, not to use any modified versions of the Software, including but not limited to, for the purpose of obtaining unauthorized access to our Services. Finally, you also undertake not to access or attempt to access our Services through any means other than the interface provided by BrickVerse for accessing our Services. These measures are essential to protect the integrity of our proprietary materials and software, ensuring a secure and compliant environment for all users.
 
 ## Modifications
 
