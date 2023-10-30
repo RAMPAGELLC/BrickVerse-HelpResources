@@ -22,6 +22,8 @@ If you do not agree to the Terms of Service, then you are prohibited to not use 
 
 When BrickVerse releases amendments to Term's Of Service, Privacy Policy, new policy creation, etc. it's your duty to review these changes. If you disagree with new agreements you are to immediately cease usage of BrickVerse. We typically will put out a notice of the new changes, by E-mail, site banner, site and/or device notification, phone texts, etc.
 
+Use of this platform signifies your acceptence of our terms of use as well as our privacy policy. All icons, logos, characters, items, or other assets are subject to copyright except where stated by our terms of use. Refusal, rejection, disapproval, or violation of our terms of use and/or privacy policy may result in termination or suspension of your account, and all relevant services or subscriptions. We reserve the right, whereas stated by our terms of use, to terminate, or where appropriate, withdraw access to your account for either a temporary or permanent duration.
+
 ## Safety
 
 In the BrickVerse.gg community, we aim to foster a space where individuals can connect with optimism and civility, regardless of their background, beliefs, or identity. Our commitment to this vision means that certain behaviors and content are strictly prohibited to ensure that everyone feels comfortable and respected. Here are the guidelines for conduct and content within our community:
