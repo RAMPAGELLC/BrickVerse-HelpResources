@@ -216,11 +216,11 @@ _Note: Applying a 13+ Experience Guideline does not hide ad content from users u
 * Developers should not reuse or repurpose BrickVerse Immersive Ad content.
 * Advertisements should not falsely represent the content being advertised to encourage user engagement (e.g., offering free Cubes).
 
-For more detailed information on how to independently advertise, please consult our [Creator guidance](../general/general/advertising-overview/complying-with-advertising-standards.md).
+For more detailed information on how to independently advertise, please consult our [Creator guidance](../../general/general/advertising-overview/complying-with-advertising-standards.md).
 
 **Prohibited Advertising Practices and Content**
 
-All advertisements on BrickVerse must adhere to BrickVerse's Advertising Standards. Creator guidance for complying with these standards can be found [here](../general/general/advertising-overview/complying-with-advertising-standards.md).
+All advertisements on BrickVerse must adhere to BrickVerse's Advertising Standards. Creator guidance for complying with these standards can be found [here](../../general/general/advertising-overview/complying-with-advertising-standards.md).
 
 **BrickVerse Economy**
 

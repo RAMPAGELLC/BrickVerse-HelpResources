@@ -5,6 +5,7 @@
 ## General
 
 * [Accounts](general/accounts/README.md)
+  * [Ways to Gain Virtual Currency](general/accounts/ways-to-gain-virtual-currency.md)
   * [How to Manage Multiple Devices on BrickVerse.gg](general/accounts/how-to-manage-multiple-devices-on-brickverse.gg.md)
   * [Digital Services Act - Information on Average Monthly Active Recipients in the European Union](general/accounts/digital-services-act-information-on-average-monthly-active-recipients-in-the-european-union.md)
   * [Enhancing Safety with Government Identification Verification (GIV)](general/accounts/enhancing-safety-with-government-identification-verification-giv.md)
@@ -68,17 +69,22 @@
 
 ## legal
 
-* [Biometric Privacy Notice](legal/biometric-privacy-notice.md)
-* [BrickVerse API Falsified Data Usage Policy](legal/brickverse-api-falsified-data-usage-policy.md)
-* [World Developer Agreement](legal/world-developer-agreement.md)
-* [Donation Agreement](legal/donation-agreement.md)
-* [Digital Millennium Copyright Act (DMCA) Policy](legal/digital-millennium-copyright-act-dmca-policy.md)
-* [DMCA Takedown](legal/dmca-takedown.md)
+* [DMCA](legal/dmca/README.md)
+  * [DMCA Takedown](legal/dmca/dmca-takedown.md)
+  * [Digital Millennium Copyright Act (DMCA) Policy](legal/dmca/digital-millennium-copyright-act-dmca-policy.md)
+* [Terms](legal/terms/README.md)
+  * [Term's Of Service](legal/terms/terms-of-service.md)
+  * [World Developer Agreement](legal/terms/world-developer-agreement.md)
+  * [Public API Abuse Policy](legal/terms/public-api-abuse-policy.md)
+  * [Transactions](legal/terms/transactions/README.md)
+    * [Donation Agreement](legal/terms/transactions/donation-agreement.md)
+    * [Purchase Agreement](legal/terms/transactions/purchase-agreement.md)
+    * [Virtual Currency Policy](legal/terms/transactions/virtual-currency-policy.md)
+* [Privacy](legal/privacy/README.md)
+  * [Privacy Policy](legal/privacy/privacy-policy.md)
+  * [CPRA Privacy Policy](legal/privacy/cpra-privacy-policy.md)
+  * [Biometric Privacy Notice](legal/privacy/biometric-privacy-notice.md)
 * [Legal Links](legal/legal-links.md)
-* [Term's Of Service](legal/terms-of-service.md)
-* [Privacy Policy](legal/privacy-policy.md)
-* [Purchase Agreement](legal/purchase-agreement.md)
-* [Virtual Currency Policy](legal/virtual-currency-policy.md)
 
 ***
 
