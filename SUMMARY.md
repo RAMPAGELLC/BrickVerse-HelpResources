@@ -60,15 +60,16 @@
   * [Child Weekly Spend Restrictions](player-safety/for-parents/child-weekly-spend-restrictions.md)
   * [Digital Well-Being](player-safety/for-parents/digital-well-being.md)
 
-## BILLING
+## DEVELOPERS
 
-* [Developer Exchange](billing/developer-exchange/README.md)
-  * [DevEx: Pending Balance](billing/developer-exchange/devex-pending-balance.md)
-  * [DevEx: Withdrawable Wallet](billing/developer-exchange/devex-withdrawable-wallet.md)
-* [Refund Policy](billing/refund-policy.md)
+* [Developer Fees for BrickVerse](developers/developer-fees-for-brickverse.md)
+* [Developer Exchange](developers/developer-exchange/README.md)
+  * [DevEx: Pending Balance](developers/developer-exchange/devex-pending-balance.md)
+  * [DevEx: Withdrawable Wallet](developers/developer-exchange/devex-withdrawable-wallet.md)
 
 ## legal
 
+* [Refund Policy](legal/refund-policy.md)
 * [DMCA](legal/dmca/README.md)
   * [DMCA Takedown](legal/dmca/dmca-takedown.md)
   * [Digital Millennium Copyright Act (DMCA) Policy](legal/dmca/digital-millennium-copyright-act-dmca-policy.md)
