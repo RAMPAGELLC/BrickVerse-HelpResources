@@ -8,7 +8,7 @@ At BrickVerse, we believe in fostering creativity and providing opportunities fo
 
 ### Making Your Game Public or Available for Paid Access
 
-If you wish to make your game accessible to all users on the BrickVerse platform or offer it for paid access, you'll need to go through a simple process and pay a one-time fee of $1,000 in Cubes (equivalent to approximately $10 USD in valuation). Cubes are our virtual currency, and they are used for various transactions on BrickVerse.
+If you wish to make your game accessible to all users on the BrickVerse platform or offer it for paid access, you'll need to go through a simple process and pay a one-time fee of $1,000 Cubes (equivalent to approximately $10 USD in valuation). Cubes are our virtual currency, and they are used for various transactions on BrickVerse.
 
 #### Benefits of Making Your Game Public:
 
@@ -17,7 +17,7 @@ If you wish to make your game accessible to all users on the BrickVerse platform
 
 #### Cube Fee Payment:
 
-* The one-time $1,000 Cube Fee paid in Cubes, which can be purchased within the platform.
+* The one-time $1,000 Cube Fee, which can be purchased within the platform.
 
 #### Updating Your Game:
 
