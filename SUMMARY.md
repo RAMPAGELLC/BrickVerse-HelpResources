@@ -5,6 +5,7 @@
 ## General
 
 * [Accounts](general/accounts/README.md)
+  * [Understanding Anti-Session Hijacking Setting on BrickVerse.gg](general/accounts/understanding-anti-session-hijacking-setting-on-brickverse.gg.md)
   * [Ways to Gain Virtual Currency](general/accounts/ways-to-gain-virtual-currency.md)
   * [How to Manage Multiple Devices on BrickVerse.gg](general/accounts/how-to-manage-multiple-devices-on-brickverse.gg.md)
   * [Digital Services Act - Information on Average Monthly Active Recipients in the European Union](general/accounts/digital-services-act-information-on-average-monthly-active-recipients-in-the-european-union.md)
