@@ -5,6 +5,7 @@
 ## General
 
 * [Accounts](general/accounts/README.md)
+  * [BrickVerse.gg Data Deletion Policy](general/accounts/brickverse.gg-data-deletion-policy.md)
   * [Understanding Anti-Session Hijacking Setting on BrickVerse.gg](general/accounts/understanding-anti-session-hijacking-setting-on-brickverse.gg.md)
   * [Ways to Gain Virtual Currency](general/accounts/ways-to-gain-virtual-currency.md)
   * [How to Manage Multiple Devices on BrickVerse.gg](general/accounts/how-to-manage-multiple-devices-on-brickverse.gg.md)
