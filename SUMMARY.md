@@ -65,6 +65,7 @@
 
 ## DEVELOPERS
 
+* [Vault Storage Introduction](developers/vault-storage-introduction.md)
 * [Developer Fees for BrickVerse](developers/developer-fees-for-brickverse.md)
 * [Developer Exchange](developers/developer-exchange/README.md)
   * [DevEx: Pending Balance](developers/developer-exchange/devex-pending-balance.md)
