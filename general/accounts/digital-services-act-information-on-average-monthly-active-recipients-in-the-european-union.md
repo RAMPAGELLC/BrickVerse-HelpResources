@@ -31,3 +31,11 @@ Non-compliance with AMAR reporting requirements and other DSA provisions may res
 ### Conclusion
 
 The Average Monthly Active Recipients (AMAR) metric is a fundamental component of the Digital Services Act (DSA), designed to promote transparency, accountability, and user protection within the European Union. By effectively measuring and reporting AMAR, digital service providers contribute to a safer online environment while complying with EU regulations. Understanding and adhering to these reporting requirements is crucial for both digital service providers and the EU authorities to ensure the success of the DSA in regulating the digital landscape.
+
+## Reports
+
+### 2023
+
+#### 11 OCTOBER — 10 NOVEMBER
+
+**23.31M**
