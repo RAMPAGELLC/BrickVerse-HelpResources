@@ -2,7 +2,7 @@
 
 **1. Introduction**
 
-Welcome to BrickVerse's Virtual Currency Policy! In this document, we outline the rules and regulations governing the virtual currency known as "Cubes" within the BrickVerse ecosystem. Please read this policy carefully, as it contains important information regarding the use, administration, and governance of Cubes.
+Welcome to BrickVerse's Virtual Currency Policy! In this document, we outline the rules and regulations governing the virtual currency known as "**Cubes**" within the BrickVerse ecosystem. Please read this policy carefully, as it contains important information regarding the use, administration, and governance of Cubes.
 
 **2. Ownership and Administration**
 
@@ -15,9 +15,10 @@ For transactions involving Cubes, BrickVerse imposes a Developer Exchange Tax (D
 * BrickVerse will not charge any percentage of the transaction amount (0%) as a direct transaction fee of your Cubes.
 *   However, BrickVerse will retain a minimum percentage of the Cubes' valuation converted to USD as follows:
 
-    * **Tier 1 Membership Users:** 40%
-    * **Tier 2 Membership Users:** 30%
-    * **Tier 3 Membership Users:** 10%
+    * **Tier 0 Membership (No membership):** 50%
+    * **Tier 1 Membership:** 40%
+    * **Tier 2 Membership:** 30%
+    * **Tier 3 Membership:** 10%
 
     This is entirely automatic, the amount your have in your DevEx balance is amount already calculated you have avaliable to fully withdraw.
 
@@ -54,7 +55,11 @@ In conclusion, the introduction of Cubes as our virtual currency adds a new dime
 
 **11. Exchange Rates**
 
-The current rates is 100 Cubes  = $1 USD.
+The current rates is:
+
+**100 Cubes  = $1 USD**
+
+**1 Cube = $0.01 USD**
 
 In simple terms, when you receive Cubes in BrickVerse, you can use them right away for various transactions. However, if you wish to convert them into real-world currency (USD) through DevEx, you'll need to wait for one week after receiving them. It's important to note that whether you spend your Cubes during the eligibility period or not, the amount you spent will be deducted from your DevEx Balance or pending balance. When you sell items and receive Cubes for them, you'll get the full amount based on the item's sale. The only part you'll lose is a percentage of the Cubes' value due to DevEx taxes when you decide to cash them out into USD.
 

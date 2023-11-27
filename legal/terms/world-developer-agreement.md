@@ -8,7 +8,7 @@ This World Developer Agreement ("Agreement") governs the relationship between th
 
 **Section 1: Acceptance of Terms**
 
-1.1. **Agreement Acceptance**: By accessing and using the BrickVerse.gg platform, World Developers agree to abide by all policies and terms set forth by BrickVerse.gg. This includes but is not limited to the BrickVerse API Falsified Data Usage Policy, Community Guidelines, Privacy Policy, and Terms of Service.
+1.1. **Agreement Acceptance**: By accessing and using the BrickVerse.gg platform, World Developers agree to abide by all policies and terms set forth by BrickVerse.gg. This includes but is not limited to the BrickVerse API Falsified Data Usage Policy, Community Guidelines, Privacy Policy, Terms of Service, and World Developer Code Of Conduct.
 
 **Section 2: Compliance with Community Guidelines**
 

@@ -43,10 +43,6 @@
   * [Law Enforcement Guidelines for Obtaining User Data on BrickVerse](general/moderation/law-enforcement-guidelines-for-obtaining-user-data-on-brickverse.md)
 * [List Of Administrators](general/list-of-administrators.md)
 
-## Client
-
-* [Health Warning](client/health-warning.md)
-
 ## Player Safety
 
 * [How to Contact BrickVerse.co Support for Assistance](player-safety/how-to-contact-brickverse.co-support-for-assistance.md)
@@ -74,6 +70,7 @@
 
 ## legal
 
+* [Health Warning](legal/health-warning.md)
 * [Refund Policy](legal/refund-policy.md)
 * [DMCA](legal/dmca/README.md)
   * [DMCA Takedown](legal/dmca/dmca-takedown.md)
@@ -81,6 +78,7 @@
 * [Terms](legal/terms/README.md)
   * [Term's Of Service](legal/terms/terms-of-service.md)
   * [World Developer Agreement](legal/terms/world-developer-agreement.md)
+  * [World Developer Code Of Conduct](legal/terms/world-developer-code-of-conduct.md)
   * [Public API Abuse Policy](legal/terms/public-api-abuse-policy.md)
   * [Transactions](legal/terms/transactions/README.md)
     * [Donation Agreement](legal/terms/transactions/donation-agreement.md)
