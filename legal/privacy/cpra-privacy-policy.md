@@ -42,7 +42,7 @@ We may use the personal information collected for various purposes as permitted 
 
 ### 3. Sharing Your Information
 
-We may share your personal information with third parties, including service providers and affiliates, for the purposes outlined in this Policy. We do not sell your personal information, and we take reasonable steps to ensure that our third-party partners protect your data.
+We may share your personal information with third parties, including service providers and affiliates, for the purposes outlined in this Policy. We **do not sell your personal information**, and we take reasonable steps to ensure that our third-party partners protect your data.
 
 ### 4. Your Rights
 

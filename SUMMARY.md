@@ -76,6 +76,7 @@
   * [DMCA Takedown](legal/dmca/dmca-takedown.md)
   * [Digital Millennium Copyright Act (DMCA) Policy](legal/dmca/digital-millennium-copyright-act-dmca-policy.md)
 * [Terms](legal/terms/README.md)
+  * [Creator Analytics Terms of Use](legal/terms/creator-analytics-terms-of-use.md)
   * [Term's Of Service](legal/terms/terms-of-service.md)
   * [World Developer Agreement](legal/terms/world-developer-agreement.md)
   * [World Developer Code Of Conduct](legal/terms/world-developer-code-of-conduct.md)

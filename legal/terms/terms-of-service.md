@@ -209,11 +209,11 @@ In lieu of using BrickVerse Immersive Ads, developers have the option to indepen
 
 * Developers must maintain complete control over independent advertisement publishing. Experiences displaying independent ads must not make programmatic calls to third-party advertising services.
 * Developers are prohibited from sharing personally identifiable user engagement information with advertisers and must comply with the Creator Analytics Terms of Use and BrickVerse Terms of Use in their handling of all user information.
-* Developers must refrain from displaying advertising content to users under the age of 13. To accomplish this, developers should utilize BrickVerse tools, such as the AreAdsAllowed boolean in the PolicyService API, to replace, hide, or block access to advertising content for users not allowed to view ads.
+* Developers must refrain from displaying advertising content to users under the age of 13. To accomplish this, developers should utilize BrickVerse tools, such as the **AreAdsAllowed** boolean in the **PolicyService API**, to replace, hide, or block access to advertising content for users not allowed to view ads.
 
-_Note: Applying a 13+ Experience Guideline does not hide ad content from users under the age of 13. All ad content must be hidden using the PolicyService API._
+_**Note**: Applying a 13+ Experience Guideline does not hide ad content from users under the age of 13. All ad content must be hidden using the PolicyService API._
 
-* Developers must clearly and prominently disclose to users when content is an advertisement, using straightforward and understandable language. A reference to the advertiser's name alone is insufficient. Acceptable disclosure language includes terms like "ad," "paid," or "sponsored." This disclosure should be placed in or near the advertising content, ensuring it's noticeable and comprehensible to users.
+* Developers must clearly and prominently disclose to users when content is an advertisement, using straightforward and understandable language. A reference to the advertiser's name alone is insufficient. Acceptable disclosure language includes terms like "**ad**," "**paid**," or "**sponsored**." This disclosure should be placed in or near the advertising content, ensuring it's noticeable and comprehensible to users.
 * Developers are not allowed to mislead users into thinking that they are engaging with BrickVerse served Ads.
 * Developers should not reuse or repurpose BrickVerse Immersive Ad content.
 * Advertisements should not falsely represent the content being advertised to encourage user engagement (e.g., offering free Cubes).
@@ -236,7 +236,7 @@ BrickVerse maintains the Cube system for everyone’s benefit and enjoyment. To 
 
 Developers are permitted to use off-platform services or products to sell on-platform items (including exclusive features or in-experience enhancements) for money, directly or bundled.
 
-Cubes are not permitted on off-platform services/products.
+**Cubes are not permitted on off-platform services/products.**
 
 **Soliciting Donations:** Our community is not allowed to solicit donations for charitable causes on BrickVerse, including:
 
@@ -245,7 +245,7 @@ Cubes are not permitted on off-platform services/products.
 * Stating that a portion of sales proceeds will be directed toward a cause.
 
 {% hint style="success" %}
-_Developers may implement in-experience Cubes transactions to allow users to express appreciation for the experience or generously reward a creator (e.g., a "tip jar" feature), provided it's clear that users receive nothing in return for their payment._
+_Developers are permitted to implement in-experience Cubes transactions to allow users to express appreciation for the experience or generously reward a creator (e.g., a "**tip jar**" feature), provided it's clear that users receive nothing in return for their payment._
 {% endhint %}
 
 **Paid Random Items:** Paid random item generators include those purchased with Cubes directly or via in-experience currencies acquired with Cubes.

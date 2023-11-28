@@ -1,0 +1,5 @@
+# Creator Analytics Terms of Use
+
+By opting to utilize Creator Analytics, you provide explicit consent for BrickVerse.GG to gather and employ data from your users for the sole purpose of analytics. This data collection is intended exclusively for the computation of aggregated analytics specific to each user's experience within the BrickVerse platform.
+
+Furthermore, in tandem with your adoption of Creator Analytics, you acknowledge and agree to treat all benchmarking information disclosed within the Dashboards with confidentiality. This commitment extends to using such information solely for the assessment of your BrickVerse experience's performance. As a user of Creator Analytics, you are expressly **prohibited** from **sharing, selling, publishing, or disseminating any benchmarking information obtained through this service in any manner or form**. This confidentiality clause underscores the importance of respecting the proprietary nature of the benchmarking insights provided by the analytics tool.
