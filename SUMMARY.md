@@ -86,6 +86,7 @@
     * [Purchase Agreement](legal/terms/transactions/purchase-agreement.md)
     * [Virtual Currency Policy](legal/terms/transactions/virtual-currency-policy.md)
 * [Privacy](legal/privacy/README.md)
+  * [Cookie Policy](legal/privacy/cookie-policy.md)
   * [Privacy Policy](legal/privacy/privacy-policy.md)
   * [CPRA Privacy Policy](legal/privacy/cpra-privacy-policy.md)
   * [Biometric Privacy Notice](legal/privacy/biometric-privacy-notice.md)
