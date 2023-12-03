@@ -5,6 +5,7 @@
 ## General
 
 * [Accounts](general/accounts/README.md)
+  * [What's brickl.ink!! Is it safe??](general/accounts/whats-brickl.ink-is-it-safe.md)
   * [BrickVerse.gg Data Deletion Policy](general/accounts/brickverse.gg-data-deletion-policy.md)
   * [Understanding Anti-Session Hijacking Setting on BrickVerse.gg](general/accounts/understanding-anti-session-hijacking-setting-on-brickverse.gg.md)
   * [Ways to Gain Virtual Currency](general/accounts/ways-to-gain-virtual-currency.md)
