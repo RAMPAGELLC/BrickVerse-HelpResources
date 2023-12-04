@@ -27,6 +27,7 @@ At BrickVerse, we are committed to fostering a safe and creative environment for
    * **Send-Beta-Key:** The use of automated systems to send beta keys is prohibited.
    * **Username-Available:** The use of automated systems to check username availability is prohibited.
    * **Transparency-Request:** Any automated system requesting transparency information is prohibited.
+   * **Register**: Send-explainatory.
 3. **API Requests:**
    * Users must respect API rate limits for all endpoints to ensure fair and equitable access to our services.
    * Frequent or excessive requests to our API are strictly prohibited.
