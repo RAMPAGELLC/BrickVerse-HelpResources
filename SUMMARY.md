@@ -4,6 +4,8 @@
 
 ## General
 
+* [Engine](general/engine/README.md)
+  * [Troubleshooting Connection Issues](general/engine/troubleshooting-connection-issues.md)
 * [Accounts](general/accounts/README.md)
   * [What's brickl.ink!! Is it safe??](general/accounts/whats-brickl.ink-is-it-safe.md)
   * [BrickVerse.gg Data Deletion Policy](general/accounts/brickverse.gg-data-deletion-policy.md)
