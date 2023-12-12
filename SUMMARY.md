@@ -53,6 +53,7 @@
 
 ## Player Safety
 
+* [Automatic Chat Recording & Moderation](player-safety/automatic-chat-recording-and-moderation.md)
 * [How to Contact BrickVerse.co Support for Assistance](player-safety/how-to-contact-brickverse.co-support-for-assistance.md)
 * [Player Safety & Security](player-safety/player-safety-and-security/README.md)
   * [Official Methods for Cubes](player-safety/player-safety-and-security/official-methods-for-cubes.md)
