@@ -6,38 +6,74 @@ Welcome to BrickVerse, the dynamic and innovative social platform dedicated to e
 
 At BrickVerse, we believe in fostering creativity and providing opportunities for game development without any upfront costs. When you create a game on our platform, the entire game creation process is entirely free. Upon creation, all games are automatically set to private mode, meaning only the game creator and their designated developers can access and play the game.
 
+**However in-order to play your game regardless if its public, paid access, private, or archived you must have an BrickCloud Server.** We **do not provide free server hosting**, Server hosting is a **expensive** operation within the platform and we try to provide it as cheap as we can.
+
+## BrickCloud Server Plans
+
+Once you create a new Universe you can deploy as many BrickCloud servers you want that are specifically reserved for your universe **only**!
+
+### General pricing
+
+**Standard - $14/mo**
+
+4 vCPU Cores
+
+8GB Dedicated RAM
+
+32TB Bandwidth Out
+
+**Premium - $27.00/mo**
+
+6 vCPU Cores
+
+16GB Dedicated RAM
+
+32TB Bandwidth Out
+
+### Deployment Regions
+
+Germany
+
+United Kingdom
+
+United States (Central)
+
+United States (East)
+
+United States (West)
+
+Asia (Singapore)
+
+Asia (Japan)
+
+Australia (Sydney)
+
+{% hint style="danger" %}
+This is a server rental does not grant root access to said server. Systems are automated for ease of usage without technical know-how.
+
+
+
+A BrickCloud server is **required** for players to play your game, BrickCloud servers are used to protect players from malicious attacks, prevent exploiting, etc. BrickVerse.gg is unable at this time to provide this service for free, BrickVerse.gg plans to make this service free once our infrastructure is ready.
+
+
+
+**Deployment can take up to 78 hours. If you have any questions feel free to contact a DevRel member.**
+{% endhint %}
+
 ### Making Your Game Public or Available for Paid Access
 
-If you wish to make your game accessible to all users on the BrickVerse platform or offer it for paid access, you'll need to go through a simple process and pay a one-time fee of $1,000 Cubes (equivalent to approximately $10 USD in valuation). Cubes are our virtual currency, and they are used for various transactions on BrickVerse.
+If you wish to make your game accessible to all users on the BrickVerse platform or offer it for paid access for cubes, our virtual currency, and they are used for various transactions on BrickVerse.
 
 #### Benefits of Making Your Game Public:
 
 * **Wider Audience:** By making your game public, you expose it to a larger user base, increasing its visibility and potential for success.
 * **Monetization Opportunity:** If you choose to offer paid access, you can earn revenue from your game, helping you further invest in your development efforts.
 
-#### Cube Fee Payment:
-
-* The one-time $1,000 Cube Fee, which can be purchased within the platform.
-
 #### Updating Your Game:
 
-Developers have the freedom to update their games at any time, whether they are published or not. This allows you to refine and enhance your game as you receive feedback and come up with new ideas.
+Developers have the freedom to update their games at any time, whether they are published or not. This allows you to refine and enhance your game as you receive feedback and come up with new ideas without moderation review.
 
-#### Server Hosting Costs:
-
-It's important to note that server hosting costs our company a substantial amount of money. To help offset these expenses, we've introduced the Cube Fee for making games public or available for paid access.
-
-### Increasing Server Limits
-
-By default, each game is limited to **one** server. If your game grows and you need additional server capacity, you can raise your server limit for a monthly fee of $500 Cubes (approximately $5 USD). This ensures that your game can handle more players and maintain a smooth gaming experience.
-
-#### Cube Fee for Server Limit Increase:
-
-* The $500 Cube Fee for increasing server limits is a monthly fee per extra server.
-
-### Game Review and Moderation
-
-When you publish your game on BrickVerse, it goes through a review process to ensure it meets our community standards. Your game will not be fully published until a BrickVerse.gg moderator has approved it. Please note that if your game is declined during the review process, you will **not** be refunded the Cube Fee.
+However, players can still report your experience.
 
 ### About BrickVerse
 
