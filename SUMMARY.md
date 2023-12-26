@@ -78,6 +78,15 @@
   * [DevEx: Pending Balance](developers/developer-exchange/devex-pending-balance.md)
   * [DevEx: Withdrawable Wallet](developers/developer-exchange/devex-withdrawable-wallet.md)
 
+## platforms
+
+* [BrickVerse Promotions](platforms/brickverse-promotions.md)
+* [BrickVerse Invest](platforms/brickverse-invest.md)
+* [BrickVerse Talent](platforms/brickverse-talent.md)
+* [BrickVerse Discourse](platforms/brickverse-discourse.md)
+* [BrickVerse Forms](platforms/brickverse-forms.md)
+* [BrickVerse Repository](platforms/brickverse-repository.md)
+
 ## legal
 
 * [Health Warning](legal/health-warning.md)
