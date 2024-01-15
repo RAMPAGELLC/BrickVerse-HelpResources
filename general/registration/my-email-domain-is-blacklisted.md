@@ -35,7 +35,8 @@ array(
     'doublefold.co.uk',
     'google.com',
     'microsoft.com',
-    'apple.com'
+    'apple.com',
+    'frany.dev'
 )
 ```
 
