@@ -32,6 +32,10 @@ Welcome to BrickVerse, the vibrant and dynamic social platform designed to empow
 
 * Do not attempt to crash or cause harm to the BrickVerse infrastructure. Engage in activities that contribute positively to the platform.
 
+3.3 **Malicious / Obfuscated Code:**
+
+* Malicious and obfuscated programs are strictly prohibited.
+
 ### 4. Legal and Policy Compliance
 
 4.1 **Terms of Service:**

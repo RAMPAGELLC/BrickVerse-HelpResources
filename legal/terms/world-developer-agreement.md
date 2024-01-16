@@ -134,10 +134,12 @@ United Kingdom
 
 This World Developer Agreement is a legally binding contract that governs the relationship between World Developers and BrickVerse.gg. It outlines the responsibilities and obligations of World Developers in using the platform, creating content, and abiding by the platform's policies.
 
-BrickVerse.gg is dedicated to creating a vibrant, creative, and enjoyable gaming ecosystem. We appreciate your contributions and are excited to see the imaginative worlds you'll create on our platform.
+BrickVerse.gg is dedicated to creating a vibrant, creative, and enjoyable gaming ecosystem. We appreciate your contributions and are excited to see the imaginative worlds you'll create on our platform.&#x20;
+
+BrickVerse.gg act's as a Publishing Platform for developers, we provide tools & vast ever-growing market of users for your game's success. To utilize our software such as Site, Client, Studio, etc you must accept this World Developer Agreement and the World Developer Code Of Conduct.
 
 **Contact Information:**
 
 For any inquiries or further information regarding this Agreement or any related policies, please contact our support team at [support@brickverse.gg](mailto:support@brickverse.gg).
 
-**Document Version:** 2.0 (Dec 12, 2023)
+**Document Version:** 3.0 (Jan, 16th, 2024)
