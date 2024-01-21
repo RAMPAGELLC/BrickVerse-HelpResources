@@ -1,4 +1,4 @@
-# Developer Fees for BrickVerse
+# World Fees
 
 Welcome to BrickVerse, the dynamic and innovative social platform dedicated to empowering teens and unleashing their creativity in the world of game development. In this guide, we'll provide you with essential information about developer fees on BrickVerse, how to make your game public or available for paid access, and the benefits of these fees.
 
@@ -6,7 +6,7 @@ Welcome to BrickVerse, the dynamic and innovative social platform dedicated to e
 
 At BrickVerse, we believe in fostering creativity and providing opportunities for game development without any upfront costs. When you create a game on our platform, the entire game creation process is entirely free. Upon creation, all games are automatically set to private mode, meaning only the game creator and their designated developers can access and play the game.
 
-**However in-order to play your game regardless if its public, paid access, private, or archived you must have an BrickCloud Server.** We **do not provide free server hosting**, Server hosting is a **expensive** operation within the platform and we try to provide it as cheap as we can.
+**However in-order to play your game regardless if its public, paid access, private, or archived you must have atleast one BrickCloud Server.** We **do not provide free server hosting**, Server hosting is a **expensive** operation within the platform and we try to provide it as cheap as we can.
 
 ## BrickCloud Server Plans
 
@@ -74,9 +74,3 @@ If you wish to make your game accessible to all users on the BrickVerse platform
 Developers have the freedom to update their games at any time, whether they are published or not. This allows you to refine and enhance your game as you receive feedback and come up with new ideas without moderation review.
 
 However, players can still report your experience.
-
-### About BrickVerse
-
-BrickVerse is committed to providing a supportive and engaging environment for teen game developers. Our platform is designed to inspire creativity and facilitate the creation of captivating gaming experiences. By introducing these fees, we aim to cover our hosting costs and maintain a sustainable ecosystem for both developers and players.
-
-If you have any questions or need further assistance, please don't hesitate to contact our support team. We're here to help you on your journey to create, share, and enjoy amazing games on BrickVerse!
