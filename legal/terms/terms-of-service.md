@@ -1,8 +1,8 @@
 # Term's Of Service
 
-Effective: October 16th, 2023
+**Effective**: October 16th, 2023.
 
-Last Updated: October 30th, 2023
+**Last Updated**: February 2nd, 2024.
 
 ## Introduction
 
@@ -22,7 +22,7 @@ If you do not agree to the Terms of Service, then you are prohibited to not use 
 
 When BrickVerse releases amendments to Term's Of Service, Privacy Policy, new policy creation, etc. it's your duty to review these changes. If you disagree with new agreements you are to immediately cease usage of BrickVerse. We typically will put out a notice of the new changes, by E-mail, site banner, site and/or device notification, phone texts, etc.
 
-Use of this platform signifies your acceptence of our terms of use as well as our privacy policy. All icons, logos, characters, items, or other assets are subject to copyright except where stated by our terms of use. Refusal, rejection, disapproval, or violation of our terms of use and/or privacy policy may result in termination or suspension of your account, and all relevant services or subscriptions. We reserve the right, whereas stated by our terms of use, to terminate, or where appropriate, withdraw access to your account for either a temporary or permanent duration.
+Use of this platform signifies your acceptance of our terms of use as well as our privacy policy. All icons, logos, characters, items, or other assets are subject to copyright except where stated by our terms of use. Refusal, rejection, disapproval, or violation of our terms of use and/or privacy policy may result in termination or suspension of your account, and all relevant services or subscriptions. We reserve the right, whereas stated by our terms of use, to terminate, or where appropriate, withdraw access to your account for either a temporary or permanent duration.
 
 ## Safety
 
@@ -415,11 +415,11 @@ It's important to note that certain Payable Services or website purchases are no
 
 ### Requesting Refunds
 
-To request a refund, navigate to your account settings page and access the "Billing" tab. Please be aware that players can only request refunds for memberships less than seven (7) days old. All refund requests are subject to review, and we reserve the right to refuse refunds to any user for any reason. If your refund request is approved, your automatically renewing subscription will be canceled. Refunds will be processed within seven (7) business days by our team.
+To request a refund, navigate to your account settings page and access the "Billing" tab. Please be aware that players can only request refunds for memberships less than seven (7) days old. All refund requests are subject to review, and we reserve the right to refuse refunds to any user for any reason. If your refund request is approved, your automatically renewing subscription will be canceled. Refunds will be processed within seven (**7**) business days by our team.
 
 ### Refund Types
 
-Refunds will be issued in U.S. dollars, and, in most cases, will be processed back to the original payment method. However, in some circumstances, refunds cannot be returned to the original payment method. In such cases, your account will be credited with the dollar amount of the purchase, which can then be used to purchase additional Payable Services on our Site. Please note that account credit cannot be converted into cash and can only be used on our Site. If a refund is issued as account credit, it will be available immediately upon approval. However, if the refund is processed back to the original payment method, it may take some time. Credit card refunds, for instance, may take five (5) to ten (10) business days to reflect on your card. If you haven't received your refund after ten (10) days, please contact us.
+Refunds will be issued in U.S. dollars, and, in most cases, will be processed back to the original payment method. However, in some circumstances, refunds cannot be returned to the original payment method. In such cases, your account will be credited with the dollar amount of the purchase, which can then be used to purchase additional Payable Services on our Site. Please note that account credit cannot be converted into cash and can only be used on our Site. If a refund is issued as account credit, it will be available immediately upon approval. However, if the refund is processed back to the original payment method, it may take some time. Credit card refunds, for instance, may take five (5) to ten (**10**) business days to reflect on your card. If you haven't received your refund after ten (10) days, please contact us.
 
 ### Refund Abuse
 
@@ -432,11 +432,35 @@ There are specific purchases that are ineligible for refunds, and these include:
 * Accounts terminated for violations of our Terms or additional policies. Purchases for accounts that have been terminated due to violations of our Site policies, such as our terms of service, will not be eligible for refund requests. However, we may consider transferring the remaining membership subscription to a new account upon request (see "Membership Transfers" below).
 * Purchases made on content that is removed from our Site. No refunds, credits, or compensation will be provided for funds spent on assets, images, clothing, games, or other content on our Service that has been removed due to violations of our Terms or for any other reason. We are not responsible for refunding losses incurred from the removal of such content.
 
+## Intellectual Property
+
+**1.1 BrickEngine:** BrickEngine, also known as **"Brick Engine," "BrickVerse Studio," "BrickVerse Client," "BrickClient," and "Studio",** is the proprietary software owned and/or controlled by BrickVerse. All rights to Studio and its elements are exclusively held by BrickVerse. Subject to compliance with Creator Terms, BrickVerse grants Creators a non-exclusive, limited, revocable, non-sublicensable, and non-transferable Studio License. This license allows Creators to utilize Studio solely for the purpose of creating, developing, modifying, uploading, and publishing **User-Generated Content (UGC)** on the Services.
+
+**1.2 BrickVerse Templates:** "Templates," provided by BrickVerse through Studio, serve as starting points for Creators to facilitate UGC creation. BrickVerse retains all rights to Templates and their elements, offering them to Creators under the Studio License. Using a Template does not confer any ownership rights to Creators.
+
+**1.3 Termination of License:** BrickVerse reserves the right to terminate or modify the Studio License, Template License, Other BrickVerse Content License, and BrickVerse Trademark License at its discretion and without prior notice.
+
+**2. UGC Intellectual Property Ownership**
+
+Creators of UGC maintain complete legal rights and ownership over their creations. Creators grant BrickVerse a license to distribute UGC within the platform to provide its services. Creators are responsible for their UGC and warrant that:&#x20;
+
+(**a**) They are the creator and owner of, or possess the necessary rights and permissions to grant BrickVerse the specified rights and license.&#x20;
+
+(**b**) The use of their UGC will not infringe, violate, or misappropriate any third-party rights, nor slander, defame, libel, or invade the rights of privacy, publicity, or other property rights of any other person.&#x20;
+
+(**c**) It will not necessitate BrickVerse to obtain licenses, pay compensation, or provide attribution to any third parties, breach contracts with third parties, or cause BrickVerse to violate any laws or regulations.&#x20;
+
+(**d**) Creators will comply with all applicable laws, rules, regulations, and the BrickVerse Terms, including these Creator Terms, in their use of the services.
+
 ## Contributions
 
 At BrickVerse, we actively encourage our users to participate in our platform's growth by providing valuable feedback and contributing their ideas. We believe in the power of community engagement, and we greatly value the insights and suggestions our users share with us.
 
-When you choose to submit your ideas or otherwise contribute to the development of our platform, it is essential to recognize and agree to our policy, which states that your contribution will automatically become the sole property of BrickVerse. This means that any ideas or feedback you share with us will be exclusively owned by us, granting us the rights to implement, modify, or use them as we see fit. In return, we do not undertake any obligation to compensate or provide reimbursement in any form or manner for the contributions you make. This policy ensures that we can continue to innovate and enhance our platform while maintaining fairness and transparency in our user interactions.
+When you choose to submit your ideas or otherwise contribute to the development of our platform, it is essential to recognize and agree to our policy, which states that your contribution will automatically become the sole property of BrickVerse.&#x20;
+
+This means that any ideas or feedback you share with us will be exclusively owned by us, granting us the rights to implement, modify, or use them as we see fit. In return, we do not undertake any obligation to compensate or provide reimbursement in any form or manner for the contributions you make.&#x20;
+
+This policy ensures that we can continue to innovate and enhance our platform while maintaining fairness and transparency in our user interactions.
 
 ## Alternate Accounts
 
@@ -454,13 +478,37 @@ Should you decide, for any reason, to breach the aforementioned Terms, you shoul
 
 ## Indemnification
 
-By agreeing to these Terms, you commit to defend, indemnify, and absolve us, along with our subsidiaries, affiliates, and all our officers, agents, partners, and employees, from any and all losses, damages, liabilities, claims, or demands, including reasonable attorney's fees and expenses, initiated by third parties as a result of or in connection with the following circumstances: (i) any contributions you make to our Services; (ii) your utilization of our Site or Services; (iii) any violation of these Terms; (iv) a breach of the representations and warranties you have made within these Terms; (v) your infringement upon the rights of a third party, including, but not limited to, intellectual property rights; or (vi) any deliberate harmful actions directed at any other user on our Site with whom you engage. Nevertheless, we retain the prerogative, at your cost, to assume the exclusive defense and control of any matter for which you are obligated to indemnify us, and you concur to collaborate, at your own expense, with our defense against such claims. We will make reasonable efforts to inform you of any such claim, legal action, or proceeding that falls within the purview of this indemnification as soon as we become aware of it.
+By agreeing to these Terms, you commit to defend, indemnify, and absolve us, along with our subsidiaries, affiliates, and all our officers, agents, partners, and employees, from any and all losses, damages, liabilities, claims, or demands, including reasonable attorney's fees and expenses, initiated by third parties as a result of or in connection with the following circumstances:&#x20;
+
+(i) any contributions you make to our Services;&#x20;
+
+(ii) your utilization of our Site or Services;&#x20;
+
+(iii) any violation of these Terms;&#x20;
+
+(iv) a breach of the representations and warranties you have made within these Terms;&#x20;
+
+(v) your infringement upon the rights of a third party, including, but not limited to, intellectual property rights;&#x20;
+
+or (vi) any deliberate harmful actions directed at any other user on our Site with whom you engage. Nevertheless, we retain the prerogative, at your cost, to assume the exclusive defense and control of any matter for which you are obligated to indemnify us, and you concur to collaborate, at your own expense, with our defense against such claims. We will make reasonable efforts to inform you of any such claim, legal action, or proceeding that falls within the purview of this indemnification as soon as we become aware of it.
 
 ## Governing Law and Disclaimers
 
 We want to make it unequivocally clear that these Terms in no way impede or diminish the legal statutory rights that you are entitled to under the applicable laws that govern your use of our Site and any products or services you acquire through it. It is possible that certain rights are inherent and cannot be excluded. The content of these Terms will not, under any circumstances, undermine those legal rights, regardless of any provisions that may appear to contradict them. This is why we consistently use the phrase "subject to applicable law."
 
-"As is." Subject to applicable law, when you engage with our Site or utilize our Services, it is vital to recognize that they are offered 'as is.' This signifies that we do not make any explicit commitments regarding the quality, standard, or stability of our Site, its content, or the uninterrupted, error-free nature of our Site's online services. Consequently, we cannot be held responsible for any losses or damages you might incur through the use of our Site. We explicitly disclaim all warranties, whether they are express or implied, in connection with our Site and your interaction with it. This disclaimer encompasses the implied warranties of merchantability, fitness for a specific purpose, and non-infringement. We do not make warranties or representations regarding the accuracy or completeness of our Site's content, or the accuracy and completeness of websites linked to ours. We assume no responsibility for any of the following: (i) errors, inaccuracies, or omissions in the content or site materials; (ii) any personal injury or property damage resulting from your access to and utilization of our Site, including damage to your computer, phone, or the software and hardware you employ to access or engage with our Service; (iii) unauthorized access to or use of our servers and the personal or financial information stored therein; (iv) interruptions or disruptions in data transmission to or from our Site; (v) potential bugs or viruses (we are committed to safeguarding you from viruses, but downloading unauthorized, altered versions of our software could pose risks); (vi) errors or omissions in any content or material, or any losses or damages of any kind incurred as a consequence of using any content posted, transmitted, or otherwise made available on our Service. Furthermore, we do not warrant, endorse, guarantee, or assume responsibility for any product or service promoted or offered by third parties through our Site, any linked sites, or websites or mobile applications advertised on banners or other forms of advertising. We shall not be a party to, nor bear any responsibility for, overseeing transactions between you and third-party providers of products and services. Just as in any purchase of a product or service through any medium or environment, we recommend using your best judgment and exercising caution when appropriate.
+"As is." Subject to applicable law, when you engage with our Site or utilize our Services, it is vital to recognize that they are offered 'as is.' This signifies that we do not make any explicit commitments regarding the quality, standard, or stability of our Site, its content, or the uninterrupted, error-free nature of our Site's online services. Consequently, we cannot be held responsible for any losses or damages you might incur through the use of our Site. We explicitly disclaim all warranties, whether they are express or implied, in connection with our Site and your interaction with it. This disclaimer encompasses the implied warranties of merchantability, fitness for a specific purpose, and non-infringement. We do not make warranties or representations regarding the accuracy or completeness of our Site's content, or the accuracy and completeness of websites linked to ours. We assume no responsibility for any of the following:&#x20;
+
+(i) errors, inaccuracies, or omissions in the content or site materials;&#x20;
+
+(ii) any personal injury or property damage resulting from your access to and utilization of our Site, including damage to your computer, phone, or the software and hardware you employ to access or engage with our Service;
+
+(iii) unauthorized access to or use of our servers and the personal or financial information stored therein;&#x20;
+
+(iv) interruptions or disruptions in data transmission to or from our Site;&#x20;
+
+(v) potential bugs or viruses (we are committed to safeguarding you from viruses, but downloading unauthorized, altered versions of our software could pose risks);&#x20;
+
+(vi) errors or omissions in any content or material, or any losses or damages of any kind incurred as a consequence of using any content posted, transmitted, or otherwise made available on our Service. Furthermore, we do not warrant, endorse, guarantee, or assume responsibility for any product or service promoted or offered by third parties through our Site, any linked sites, or websites or mobile applications advertised on banners or other forms of advertising. We shall not be a party to, nor bear any responsibility for, overseeing transactions between you and third-party providers of products and services. Just as in any purchase of a product or service through any medium or environment, we recommend using your best judgment and exercising caution when appropriate.
 
 ## User Generated Content Policy
 
