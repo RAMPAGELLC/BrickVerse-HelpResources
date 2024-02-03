@@ -10,6 +10,8 @@ Welcome to BrickVerse, Our ultimate goal is to build a platform where users are 
 
 It is the responsibility of you, or your parent/guardian to read the Terms of Service before proceeding to use the BrickVerse platform. If you for any reason disagree with the terms, policies, guidelines, etc you are prohibited from usage of the platform.
 
+Usage of the site, engine, and our services is a **PRIVILEGE**, not a **RIGHT, BrickVerse.gg is not legally required/compelled to provide you service/access to the platform. BrickVerse.gg works closely with law enforcement entities to provide a safe and secure platform.**
+
 ## Your agreement to the Terms of Services and rules bound in addition
 
 The following document is an agreement between you, the other users of this platform and BrickVerse.&#x20;
@@ -74,6 +76,7 @@ BrickVerse upholds various systems to ensure the safety and security of our user
 * Sexualizing minors in any form.
 * Initiating sexual conversations with or soliciting sexual material from minors.
 * Sharing, requesting, or discussing child sexual exploitation material.
+* **LGBTQ/Hangout Experiences/Groups are strictly prohibited. You do not need to express your sexuality on a platform with minors, we see this as grooming.** BrickVerse.gg does **not** have issues with users sexuality, however this is not the right place to express it.
 
 **Terrorism and Violent Extremism**&#x20;
 
