@@ -2,7 +2,7 @@
 
 Effective: October 16th, 2023
 
-Last Updated: October 29th, 2023
+Last Updated: February 15th, 2024
 
 ## Introduction
 
@@ -25,7 +25,8 @@ We must store some information to provide you with our services. The amount of i
 
 Before proceeding with the remainder of the Privacy Policy, it's important to clarify specific terms used in this document. These terms have distinct meanings:
 
-* **"Children" or "Child"** refers to any user under the age of 13.
+* **"Children", "Child", and "Minor"** refers to any user under the age of 18.
+* "**Child Account**" refers to any user under the age of 13.
 * **"Minor" or "minor user"** pertains to a user of the Services who is below the legal age of majority in their jurisdiction or state of residence.
 * **"Personal Information"** encompasses any data related to a natural person that can be identified, either directly or indirectly, often through means such as a name, identification number, location data, or an online identifier.
 * **"Platform"** designates our BrickVerse platform, the ultimate virtual universe where creativity takes the lead.
@@ -64,7 +65,7 @@ For users under 13 years old who create an account, we will request some informa
 * **Your Birthday (required):** Your birthday is used to ensure that your account has the appropriate default settings for your age.
 * **Your Gender (optional):** This information is used to customize your experience on BrickVerse.
 
-For enhanced account security and parental controls, you have the option to provide a parent's or guardian's email address in your account settings or during logout. While we encourage children to provide a parent's email address, it's not mandatory to create an account.&#x20;
+For enhanced account security and parental controls, we rquire a parent to provide a parent's or guardian's email address during registration.
 
 Parent email addresses, which are the only personal information as defined by COPPA that we collect from child accounts, are collected to ensure the security and integrity of your account and the BrickVerse platform. We may use your parent's email address to communicate with them about your account, such as requesting them to review and oversee your account.
 
@@ -313,11 +314,11 @@ Here are some examples of services for which we might rely on external companies
 * **Analytics Services (e.g., Google LLC)**
 * **User Acquisition Services (e.g., AppsFlyer, RAMPAGE Interactive)**
 * **Community Filtering and Moderation Services (e.g., CommunitySift, Microsoft Azure, Vanex Moderator)**
-* **Customer Support Services (e.g., RAMPAGE Support)**
+* **Customer Support Services (e.g., RAMPAGE Interactive)**
 * **Surveys and Promotions (e.g., Reach3, Google LLC)**
 * **Social Media Log-In Services (e.g., SAP Customer Data Cloud)**
-* **Billing and Payment Services (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, Consoles, Xsolla, RAMPAGE Checkout)**
-* **Hosting and Content Delivery Services (e.g., AWS, Equinix, CenturyLink, YouTube, Vimeo, Cloudflare, RAMPAGE CDN, Vanex Network)**
+* **Billing and Payment Services (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, Consoles, Xsolla, RAMPAGE Interactive)**
+* **Hosting and Content Delivery Services (e.g., AWS, Equinix, CenturyLink, YouTube, Vimeo, Cloudflare, RAMPAGE Interactive, Vanex Network)**
 
 It's important to note that Personal Information collected through the SMS program will not be shared, sold, or rented to third parties. Your privacy and data security remain our top priority.
 
