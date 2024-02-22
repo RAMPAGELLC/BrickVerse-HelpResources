@@ -24,9 +24,11 @@ In BrickVerse, you'll have the opportunity to interact with other players, colla
 
 Collecting gender data also allows us to conduct research on player demographics, interests, and preferences. This information helps us make informed decisions when developing new features, games, and content, ensuring that we continue to meet the evolving needs and expectations of our diverse player base.
 
-**Privacy and Security**
+**Privacy**
 
-Rest assured that your gender information is collected and stored securely. We prioritize your privacy and will never share this data with third parties without your explicit consent. You have the option to update or change your gender information in your account settings at any time.
+Your gender is publicly visible in the BrickVerse Open-Cloud API, in non-developer worlds, game & website developers not affiliated with brickverse staff can see your gender utilizing our Web API.
+
+Your gender is also shared within your Public Profile screen if enabled within Settings.
 
 **Conclusion**
 
