@@ -21,8 +21,6 @@ At BrickVerse, we believe in fostering creativity and providing opportunities fo
 
 **However in-order to play your game regardless if its public, paid access, private, or archived you must have** at least **one BrickCloud Server or a shared server must be available.** Server hosting is a **expensive** operation within the platform and we try to provide it as cheap as we can.
 
-
-
 {% hint style="success" %}
 **NEW FREE SHARED SERVERS FOR EVERYONE**
 
@@ -44,6 +42,30 @@ Developers are still able to purchase dedicated BrickCloud servers which are spe
 These free shared servers are paid entirely by BrickVerse Corporation. Purchasing membership, and donations help us with providing this service.
 
 ― Developer Relations Team
+{% endhint %}
+
+{% hint style="info" %}
+Active shared server(s) in-use by your universe are temporarily registered within the servers.brickverse.gg portal. E-mail notifications for the server(s) being added are disabled.
+
+
+
+Due to them being technically owned by BrickVerse.gg some portal options are disabled such as Delete, Region Controls, etc.
+{% endhint %}
+
+{% hint style="info" %}
+Upon your server play count reaching ZERO, at request of a universe developer via `servers.brickverse.gg`, or BrickVerse staff member the server will automatically trigger the `game:OnShutdown()` signal and shutdown the server.
+
+
+
+**For shared servers:**
+
+It will immediately become available for other universes to utilize.
+
+
+
+**For dedicated servers:**
+
+It will immediately go into a rest state until it's required again for another server startup.
 {% endhint %}
 
 ## BrickCloud Server Plans
