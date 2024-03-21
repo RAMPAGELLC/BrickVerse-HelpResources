@@ -72,7 +72,7 @@
 
 * [Vault Storage Introduction](developers/vault-storage-introduction.md)
 * [Understanding Asset Upload Fees for Assets on BrickVerse](developers/understanding-asset-upload-fees-for-assets-on-brickverse.md)
-* [World Fees](developers/world-fees.md)
+* [World Creation & Developer Fees](developers/world-creation-and-developer-fees.md)
 * [Developer Exchange](developers/developer-exchange/README.md)
   * [DevEx: Tax Requirements](developers/developer-exchange/devex-tax-requirements.md)
   * [DevEx: Pending Balance](developers/developer-exchange/devex-pending-balance.md)
