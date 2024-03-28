@@ -41,6 +41,7 @@
     * [Advertising Standards](general/general/advertising-overview/advertising-standards.md)
     * [Complying with Advertising Standards](general/general/advertising-overview/complying-with-advertising-standards.md)
 * [Moderation](general/moderation/README.md)
+  * [DSA Report Form](general/moderation/dsa-report-form.md)
   * [Community Guidelines](general/moderation/community-guidelines.md)
   * [BrickVerse.gg Account and Billing Information Disclosure Policy](general/moderation/brickverse.gg-account-and-billing-information-disclosure-policy.md)
   * [Ensuring Accurate and Responsible Moderation: BrickVerse.gg's Weekly Audits](general/moderation/ensuring-accurate-and-responsible-moderation-brickverse.ggs-weekly-audits.md)
