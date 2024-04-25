@@ -2,7 +2,7 @@
 
 **Effective**: October 16th, 2023.
 
-**Last Updated**: February 2nd, 2024.
+**Last Updated**: April 24th, 2024.
 
 ## Introduction
 
@@ -77,6 +77,7 @@ BrickVerse upholds various systems to ensure the safety and security of our user
 * Initiating sexual conversations with or soliciting sexual material from minors.
 * Sharing, requesting, or discussing child sexual exploitation material.
 * **LGBTQ/Hangout Experiences/Groups are strictly prohibited. You do not need to express your sexuality on a platform with minors, we see this as grooming.** BrickVerse.gg does **not** have issues with users sexuality, however this is not the right place to express it.
+* Assets and accounts pertaining to the "Furry Fandom".
 
 **Terrorism and Violent Extremism**&#x20;
 
