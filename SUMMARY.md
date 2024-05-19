@@ -109,6 +109,7 @@
     * [Creator Analytics Terms of Use](legal/terms/world-developers/creator-analytics-terms-of-use.md)
   * [Term's Of Service](legal/terms/terms-of-service.md)
   * [Transactions](legal/terms/transactions/README.md)
+    * [Item Deletion Agreement](legal/terms/transactions/item-deletion-agreement.md)
     * [Donation Agreement](legal/terms/transactions/donation-agreement.md)
     * [Purchase Agreement](legal/terms/transactions/purchase-agreement.md)
     * [Virtual Currency Policy](legal/terms/transactions/virtual-currency-policy.md)
