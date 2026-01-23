@@ -2,7 +2,7 @@
 
 1. Introduction
 
-BrickVerse.gg ("BrickVerse") is committed to respecting the intellectual property rights of others and complying with the Digital Millennium Copyright Act ("DMCA"). This policy outlines our procedures for handling repeat infringers in accordance with the DMCA and other relevant laws.
+BrickVerse.gg ("**BrickVerse**") is committed to respecting the intellectual property rights of others and complying with the Digital Millennium Copyright Act ("**DMCA**"). This policy outlines our procedures for handling repeat infringers in accordance with the DMCA and other relevant laws.
 
 2. Repeat Infringer Policy
 
@@ -42,13 +42,15 @@ If you are a copyright owner and believe that your copyright-protected work has 
 
 For any questions or concerns regarding this Repeat Infringer Policy or other DMCA-related matters, please contact our designated DMCA agent:
 
-[legal@rampagestudios.org](mailto:legal@rampagestudios.org)
+**Via electronic mail:**
 
-RAMPAGE INTERACTIVE
+copyright\_agent@brickverse.gg
 
-4742 Liberty Rd S # 2038
+**Via mail:**
 
-Salem, OR 97302 United States
+Meta Games LLC\
+5441 S MACADAM AVE #8134\
+PORTLAND, OR, USA, 97239
 
 **LEGAL REQUEST/NOTICE LETTERS ONLY TO THIS ADDRESS.**
 

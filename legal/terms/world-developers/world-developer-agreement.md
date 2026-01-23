@@ -2,7 +2,7 @@
 
 **Effective Date:** October 25, 2023
 
-**Modified:** December 12th, 2023
+**Modified:** January 22nd, 2026
 
 **Introduction**
 
@@ -84,26 +84,6 @@ BrickVerse.gg reserves the right to terminate or suspend the World Developer's a
 
 This Agreement is governed by the laws of the jurisdiction in which BrickVerse.gg operates, and any disputes will be resolved in the appropriate courts of that jurisdiction.
 
-#### **Corporate**
-
-_Salem, Oregon._
-
-United States Of America
-
-#### **Databases**
-
-_Charlotee, North Carolina._
-
-United States Of America
-
-_Dallas, Texas._
-
-United States Of America
-
-_London, England_
-
-United Kingdom
-
 ### Section 12: Prohibited Activities and Content
 
 #### 12.1 Bad Practices and Abusive Game Mechanics/Scripts
@@ -142,4 +122,4 @@ BrickVerse.gg act's as a Publishing Platform for developers, we provide tools & 
 
 For any inquiries or further information regarding this Agreement or any related policies, please contact our support team at [support@brickverse.gg](mailto:support@brickverse.gg).
 
-**Document Version:** 3.0 (Jan, 16th, 2024)
+**Document Version:** 4.0 (Jan, 22nd, 2026)

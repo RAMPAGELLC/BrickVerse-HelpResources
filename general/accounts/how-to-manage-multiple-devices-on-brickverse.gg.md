@@ -30,4 +30,4 @@ Managing multiple devices on BrickVerse.gg is simple and secure. Our limit of fi
 
 BrickVerse.gg is committed to providing a safe and creative space for teenagers to explore their passions and share their gaming experiences. We hope this guide has been helpful in managing your devices on our platform. If you need further assistance, feel free to reach out to us.
 
-\
+<br>

@@ -1,6 +1,6 @@
 # Item Deletion Agreement
 
-This Item Deletion Agreement ("**Agreement**") is a supplement to the Terms of Service ("**Terms**") of Brickverse.gg. This Agreement outlines the specific terms and conditions regarding the deletion of user-generated content, including catalog items, gamepasses, and developer products ("**Items**"), by either the content creator or the Brickverse.gg staff.&#x20;
+This Item Deletion Agreement ("**Agreement**") is a supplement to the Terms of Service ("**Terms**") of Brickverse.gg. This Agreement outlines the specific terms and conditions regarding the deletion of user-generated content, including catalog items, passes, and products ("**Items**"), by either the content creator or the Brickverse.gg staff.&#x20;
 
 By using Brickverse.gg and participating in any activities involving Items, you agree to be bound by this Agreement.
 
@@ -39,7 +39,7 @@ By using Brickverse.gg and participating in activities involving Items, you expl
 Brickverse.gg reserves the right to modify this Agreement at any time. We will notify you of any changes by posting the updated Agreement on our website. Your continued use of the Services after such changes constitutes your acceptance of the updated Agreement.
 
 5.2 **Governing Law**\
-This Agreement is governed by and construed in accordance with the laws of the state of Oregon. Any disputes arising under or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of the state of Oregon.
+This Agreement is governed by and construed in accordance with the laws of the state of Oregon. Any disputes arising under or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of the State of Oregon.
 
 5.3 **Severability**\
 If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall continue to be valid and enforceable to the fullest extent permitted by law.

@@ -61,4 +61,4 @@ Administrators and moderators are excluded from these Community Guidelines becau
 \
 Our employees use external services to access certain features they use for safety purposes. Never assume a specific moderator suspended an account, sometimes they are lurking in the shadows.\
 \
-Admins and moderators have the final say in all account suspensions. Per our Terms of Service, players may be suspended at any time for any reason.
+Admins have the final say in all account suspensions. Per our Terms of Service, players may be suspended at any time for any reason.

@@ -6,14 +6,14 @@ Welcome to BrickVerse, the ultimate online platform for children, teens, and you
 
 Before you can proceed with a DMCA takedown request on BrickVerse, please make sure you have the following:
 
-1. **BrickVerse.co Account**: You must have a BrickVerse account to initiate a DMCA takedown request. If you don't have one, you can create an account at [BrickVerse.co](https://brickverse.co/).
-2. **Verified ID**: To ensure the authenticity of takedown requests, your BrickVerse account must be linked to a Verified ID through BrickVerse's government identification verification program. You can manually request verification at [giv.brickverse.co](https://giv.brickverse.co/).
+1. **BrickVerse.co Account**: You must have a BrickVerse account to initiate a DMCA takedown request. If you don't have one, you can create an account at BrickVerse
+2. **Verified ID**: To ensure the authenticity of takedown requests, your BrickVerse account must be linked to a Verified ID through BrickVerse's government identification verification program. You can manually request verification at brickverse.gg/giv.
 
 ### Initiating a DMCA Takedown Request
 
 Once you have the prerequisites in place, you can initiate a DMCA takedown request by following these steps:
 
-1. **Visit the DMCA Takedown Request Page**: Go to [dmca.brickverse.co](https://dmca.brickverse.co/) in your web browser.
+1. **Visit the DMCA Takedown Request Page**: Go to brickverse.gg/dmca in your web browser.
 2. **Fill Out the Takedown Request Form**: On the DMCA takedown request page, you will find a form that needs to be completed. Here's a breakdown of the required information:
    * **Your Contact Information**: Provide your name, email address, and phone number. Ensure this information is accurate, as it will be used to communicate with you regarding the takedown request.
    * **Identify the Infringing Content**:
@@ -32,6 +32,8 @@ After receiving your DMCA takedown request, BrickVerse will review the informati
 
 Please note that false DMCA takedown requests can have legal consequences, so only submit a request if you genuinely believe your copyright is being infringed.
 
-We appreciate your commitment to protecting intellectual property rights and maintaining a safe and creative environment on BrickVerse. If you have any further questions or concerns, please feel free to contact our support team at [support@brickverse.co](mailto:support@brickverse.co).
+We appreciate your commitment to protecting intellectual property rights and maintaining a safe and creative environment on BrickVerse. If you have any further questions or concerns, please feel free to contact our support team at help.brickverse.gg.\
+\
+You can manually submit DMCA's without a brickverse account at copyright\_agent@brickverse.gg.
 
 Thank you for being a part of the BrickVerse community!

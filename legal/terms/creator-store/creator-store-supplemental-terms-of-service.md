@@ -1,6 +1,6 @@
-# Term's of Service
+# Creator Store Supplemental Term's of Service
 
-Welcome to the Brickverse Creator Store! These Terms of Service ("**Terms**") govern your use of the Brickverse Creator Store (creator.brickverse.gg/store), a service linked to the Brickverse platform, where users can purchase developer products from vendors. By accessing or using the Brickverse Creator Store, you agree to comply with these Terms and our Privacy Policy. Please read them carefully.
+Welcome to the Brickverse Creator Store! These Terms of Service ("**Terms**") govern your use of the Brickverse Creator Store (creator.brickverse.gg/store), a service linked to the Brickverse platform, where users can purchase developer assets from vendors. By accessing or using the Brickverse Creator Store, you agree to comply with these Terms and our Privacy Policy. Please read them carefully.
 
 **1. Acceptance of Terms**&#x20;
 

@@ -279,8 +279,7 @@ All sensitive data is stored in such a way that nobody including us can read it.
 
 ## Personal information removal requests
 
-While we can not remove your account, we can disable it. If you wish to have your account disabled or personal information removed from any section of our platform, please e-mail us at [support@brickverse.co](mailto:support@brickverse.co) with the e-mail address used to create your account. Make sure to include your username so we know who you are on our platform.\
-
+While we can not remove your account, we can disable it. If you wish to have your account disabled or personal information removed from any section of our platform, please e-mail us at [support@brickverse.co](mailto:support@brickverse.co) with the e-mail address used to create your account. Make sure to include your username so we know who you are on our platform.<br>
 
 Note: Once performing this action you cannot undo this. Your data will be lost forever. Data that will be deleted: Username, Username History (prevents new registers with it.), Email, IP, Billing Information, Moderation Data (such as history, infractions, info, etc.)
 

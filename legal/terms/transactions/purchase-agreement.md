@@ -2,7 +2,7 @@
 
 Effective: October 16th, 2023
 
-Last Updated: October 16th, 2023
+Last Updated: January 22nd, 2026
 
 ## Introduction
 
@@ -44,7 +44,7 @@ This Purchase Agreement ("Agreement") is entered into between BrickVerse.co ("Se
 
 **7. Governing Law**
 
-7.1. This Agreement shall be governed by and construed in accordance with the laws of the State Of California, without regard to its conflict of laws principles.
+7.1. This Agreement shall be governed by and construed in accordance with the laws of the State Of Oregon, without regard to its conflict of laws principles.
 
 **8. Entire Agreement**
 
