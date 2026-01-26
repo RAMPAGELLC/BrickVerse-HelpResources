@@ -74,10 +74,7 @@
 * [Vault Storage Introduction](developers/vault-storage-introduction.md)
 * [Understanding Asset Upload Fees for Assets on BrickVerse](developers/understanding-asset-upload-fees-for-assets-on-brickverse.md)
 * [World Creation & Developer Fees](developers/world-creation-and-developer-fees.md)
-* [Developer Exchange](developers/developer-exchange/README.md)
-  * [DevEx: Tax Requirements](developers/developer-exchange/devex-tax-requirements.md)
-  * [DevEx: Pending Balance](developers/developer-exchange/devex-pending-balance.md)
-  * [DevEx: Withdrawable Wallet](developers/developer-exchange/devex-withdrawable-wallet.md)
+* [Brickverse Developer Exchange Program (DevEx)](developers/brickverse-developer-exchange-program-devex.md)
 
 ## platforms
 
@@ -117,8 +114,6 @@
   * [Oculus Privacy Policy](legal/privacy/oculus-privacy-policy.md)
   * [Privacy Policy](legal/privacy/privacy-policy.md)
   * [CPRA Privacy Policy](legal/privacy/cpra-privacy-policy.md)
-  * [Biometric Privacy Notice](legal/privacy/biometric-privacy-notice.md)
-* [Legal Links](legal/legal-links.md)
 
 ***
 
