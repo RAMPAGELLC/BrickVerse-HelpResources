@@ -25,9 +25,3 @@ Content is generally suitable for ages 15 and up. May contain frequent moderate 
 ### 18+
 
 Content is generally suitable for ages 18 and up. May contain frequent moderate violence and/or realistic blood, profanity, gambling, and alcohol reference.
-
-## Content Filtering
-
-Users aged 12 and below will have their messages & content they view from others automatically filtered for profanity, revealing information such as real name, phone number, etc. This is known as heavy filtering.
-
-Users aged 13+ have moderate filtering on the site to prevent adult content, harassment, hate speech, etc.

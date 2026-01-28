@@ -43,35 +43,18 @@
 ## Player Safety
 
 * [Automatic Chat Recording & Moderation](player-safety/automatic-chat-recording-and-moderation.md)
-* [How to Contact BrickVerse.co Support for Assistance](player-safety/how-to-contact-brickverse.co-support-for-assistance.md)
 * [Player Safety & Security](player-safety/player-safety-and-security/README.md)
   * [Official Methods for Cubes](player-safety/player-safety-and-security/official-methods-for-cubes.md)
   * [Age Recommendations](player-safety/player-safety-and-security/age-recommendations/README.md)
     * [Age Rating Icons](player-safety/player-safety-and-security/age-recommendations/age-rating-icons.md)
   * [My account was hacked - What do I do?](player-safety/player-safety-and-security/my-account-was-hacked-what-do-i-do.md)
   * [How to Report Rule Violations](player-safety/player-safety-and-security/how-to-report-rule-violations.md)
-* [For Parents](player-safety/for-parents/README.md)
-  * [Ensuring a Safe and Secure Online Environment](player-safety/for-parents/ensuring-a-safe-and-secure-online-environment.md)
-  * [Creating a Safe and Secure Environment for Kids](player-safety/for-parents/creating-a-safe-and-secure-environment-for-kids.md)
-  * [How can I see what my child is doing on BrickVerse?](player-safety/for-parents/how-can-i-see-what-my-child-is-doing-on-brickverse.md)
-  * [Child Weekly Spend Restrictions](player-safety/for-parents/child-weekly-spend-restrictions.md)
-  * [Digital Well-Being](player-safety/for-parents/digital-well-being.md)
+* [For Parents](player-safety/for-parents.md)
 
 ## DEVELOPERS
 
-* [Vault Storage Introduction](developers/vault-storage-introduction.md)
-* [Understanding Asset Upload Fees for Assets on BrickVerse](developers/understanding-asset-upload-fees-for-assets-on-brickverse.md)
 * [World Creation & Developer Fees](developers/world-creation-and-developer-fees.md)
 * [Brickverse Developer Exchange Program (DevEx)](developers/brickverse-developer-exchange-program-devex.md)
-
-## platforms
-
-* [BrickVerse Promotions](platforms/brickverse-promotions.md)
-* [BrickVerse Invest](platforms/brickverse-invest.md)
-* [BrickVerse Talent](platforms/brickverse-talent.md)
-* [BrickVerse Discourse](platforms/brickverse-discourse.md)
-* [BrickVerse Forms](platforms/brickverse-forms.md)
-* [BrickVerse Repository](platforms/brickverse-repository.md)
 
 ## legal
 
