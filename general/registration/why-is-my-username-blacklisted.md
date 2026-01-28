@@ -1,9 +1,5 @@
 # Why Is My Username Blacklisted?
 
-### Introduction
-
-At BrickVerse, we are committed to maintaining a safe and positive environment for all our users. To achieve this goal, we have implemented strict measures to prevent the use of usernames that violate our Terms of Service and Community Guidelines or could pose potential risks to our community, especially children, or corporate brands. This article aims to explain why usernames may get blacklisted and how corporate brands can take over a username that is not blacklisted.
-
 ### Reasons for Blacklisted Usernames
 
 When registering a username on BrickVerse, it is essential to adhere to our guidelines to ensure a respectful and secure platform. Usernames are blacklisted for the following reasons:

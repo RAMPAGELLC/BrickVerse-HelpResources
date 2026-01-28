@@ -1,5 +1,9 @@
 # Inactive Account Deletion
 
+{% hint style="danger" %}
+Your account **CANNOT** be recovered if it's either deleted manually or from this inactive deletion.
+{% endhint %}
+
 At BrickVerse, we value the security and privacy of our users. To ensure that our platform remains a safe and vibrant community, we have implemented an Inactive Account Deletion policy. This policy is designed to remove accounts that have been inactive for an extended period of time. In this article, we'll explain how this policy works and how you can prevent your account from being deleted.
 
 ### Why do we delete inactive accounts?
@@ -8,7 +12,7 @@ Inactive accounts can pose a security risk and clutter our platform. To maintain
 
 ### How the Inactive Account Deletion works
 
-**1. Timeframe:** Accounts that have been inactive for 2 years are subject to deletion.
+**1. Timeframe:** Accounts that have been inactive for one year are subject to deletion.
 
 **2. Warning Emails:** Before your account is deleted, you will receive two warning emails:
 
@@ -27,10 +31,3 @@ To ensure your account remains active and exempt from the Inactive Account Delet
 
 **3. Keep Your Profile Information Current:** Keeping your profile information current and accurate is a good practice in general and can also help in keeping your account active.
 
-### Account Recovery
-
-In the event that your account has been deleted due to inactivity and you wish to recover it, please reach out to our support team. We will do our best to assist you in recovering your account, although we cannot guarantee a successful recovery.
-
-### Conclusion
-
-BrickVerse's Inactive Account Deletion policy is in place to maintain a secure and efficient platform. By being aware of this policy and following the simple steps to keep your account active, you can prevent your account from being deleted due to inactivity. Remember that you will always receive advance warnings and have the option to log in to cancel the deletion process. If you have any questions or concerns, please don't hesitate to contact our support team for assistance.

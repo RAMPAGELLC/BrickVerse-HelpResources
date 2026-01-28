@@ -2,8 +2,6 @@
 
 ## Introduction
 
-<figure><img src="../../.gitbook/assets/LogoAutoSplash.png" alt=""><figcaption></figcaption></figure>
-
 At BrickVerse.gg, we prioritize the safety and well-being of our community members. To maintain a secure and respectful environment, we utilize automated moderation systems that work in conjunction with our automation provider's findings. These systems are designed to detect and address any violations of our community guidelines swiftly and effectively, including taking actions such as account termination when necessary. In this article, we'll explain how our automated moderation systems work and how they may result in account termination.
 
 1.  **Automated Moderation Systems**
@@ -17,7 +15,6 @@ At BrickVerse.gg, we prioritize the safety and well-being of our community membe
     When our automated moderation systems detect content that violates our community guidelines or terms of service, they can take various actions, including but not limited to:
 
     1. **Content Removal**: In cases where a texture, audio, video, or other user-generated content is found to be in violation of our guidelines, the automated system may remove or restrict the content to prevent exposure to the community.
-    2. **Muting or Filtering:** Audio content that contains hate speech, explicit language, or other harmful elements may be automatically muted or filtered to ensure that it does not negatively impact other users.
 4.  **Account Termination**
 
     In severe cases, where repeated violations or serious breaches of our community guidelines occur, our automated moderation systems, in conjunction with our automation provider's findings, may lead to account termination. Account termination is a last resort action taken to maintain a safe and respectful environment for our community members. It is essential to ensure that those who consistently disrupt the community's well-being are appropriately addressed.

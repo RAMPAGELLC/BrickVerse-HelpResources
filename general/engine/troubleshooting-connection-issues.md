@@ -1,6 +1,6 @@
 # Troubleshooting Connection Issues
 
-If you encounter connection issues while trying to access BrickEngine by BrickVerse.GG, various factors could be contributing to the problem. This guide will help you diagnose and resolve common connection failures.
+If you encounter connection issues while trying to access BrickVerse, various factors could be contributing to the problem. This guide will help you diagnose and resolve common connection failures.
 
 #### 1. **Authentication Failure:**
 
@@ -14,7 +14,7 @@ If you encounter connection issues while trying to access BrickEngine by BrickVe
 
 * _Symptoms:_ Unable to connect to the game server.
 * _Possible Causes and Solutions:_
-  * Check BrickVerse.GG official channels for server status updates. Example: status.brickverse.gg
+  * Check BrickVerse.GG official channels for server status updates. Example: [status.brickverse.gg](https://status.brickverse.gg)
   * Verify your internet connection to ensure it's stable.
   * If the server is down, wait for maintenance to conclude or check for announcements.
 

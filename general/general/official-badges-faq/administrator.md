@@ -8,4 +8,4 @@ BrickVerse's Admin Badge helpers players on our platform easily identify a playe
 
 ## How can I get it?
 
-Unfortunately, this badge is only given to BrickVerse staff. You cannot obtain this.
+This badge is only given to BrickVerse staff.

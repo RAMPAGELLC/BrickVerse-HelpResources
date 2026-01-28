@@ -1,10 +1,13 @@
 # Official Staff Communication & Player Safety
 
-Welcome to BrickVerse.gg, the dynamic and innovative social platform designed to empower teens by unleashing their creativity and connecting them with a vibrant community of young innovators. To ensure a safe and enjoyable experience for all users, we have established a set of guidelines for official staff communication and security.
+We have established a set of guidelines for official staff communication and security.
 
 **1. Official Staff Contact Policy:**
 
-At BrickVerse.gg, we value your safety and privacy. Our official staff members will never contact you off-platform, including through personal email, phone, or social media accounts. All communication from our staff will be conducted within the BrickVerse.gg platform, or from a BRICKVERSE.GG EMAIL Address, for example: **no-reply@brickverse.gg**.
+At BrickVerse.gg, we value your safety and privacy. Our official staff members will never contact you off-platform, including through personal email, phone, or social media accounts. All communication from our staff will be conducted within the BrickVerse.gg platform, or from a official BrickVerse domain which is:
+
+* brickverse.gg
+* meta-games.org
 
 **2. Security Information Policy:**
 
@@ -34,23 +37,3 @@ We are dedicated to providing a secure and creative space for our users. By adhe
 
 If you ever have questions or concerns about staff communications or the security of your account, please reach out to our support team via the official BrickVerse.gg contact channels.
 
-Thank you for being a part of BrickVerse.gg, and for contributing to the vibrant world of game creators and innovators. Together, we are shaping the future of interactive entertainment!
-
-**Official Websites**
-
-To ensure the legitimacy and safety of the following platforms, please only visit their official websites. Any website that is not listed below may be an imposter:
-
-1. **BrickVerse.gg**: [Official Website](https://brickverse.gg/)
-2. **BrickVerse.co (BrickVerse.gg mirror)**: [Official Website](https://brickverse.co/)
-3. **Vanex Network**: [Official Website](https://vanexnetwork.com/)
-4. **RAMPAGE HOSTING**: [Official Website](https://rampage.host/)
-5. **RAMPAGE.place (RAMPAGE ID & Communtiy Forum)**: [Official Website](https://rampage.place/)
-6. **RAMPAGE INTERACTIVE - BUSINESS LANDING**: [Official Website](https://rampagestudios.org/)
-
-Please exercise caution and only interact with the websites listed above to ensure your safety and security while using these platforms.
-
-For your safety BrickVerse.gg has provided a warning screen for sites flagged as SAFE & UNSAFE.
-
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Unsafe example. --However some sites may be safe, but we cannot guarantee safety from cookie loggers, ads, malware, etc.</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Safe example.</p></figcaption></figure>
