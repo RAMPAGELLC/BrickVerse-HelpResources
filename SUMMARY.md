@@ -55,6 +55,7 @@
 
 * [World Creation & Developer Fees](developers/world-creation-and-developer-fees.md)
 * [Brickverse Developer Exchange Program (DevEx)](developers/brickverse-developer-exchange-program-devex.md)
+* [Why Is My Transaction Pending? Where Is My Money?](developers/why-is-my-transaction-pending-where-is-my-money.md)
 
 ## legal
 
