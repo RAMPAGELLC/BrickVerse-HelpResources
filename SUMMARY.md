@@ -57,6 +57,7 @@
 * [Brickverse Developer Exchange Program (DevEx)](developers/brickverse-developer-exchange-program-devex.md)
 * [Why Is My Transaction Pending? Where Is My Money?](developers/why-is-my-transaction-pending-where-is-my-money.md)
 * [Uploading a Texture](developers/uploading-a-texture.md)
+* [Why is my account ineligible to receive cubes from Guilds?](developers/why-is-my-account-ineligible-to-receive-cubes-from-guilds.md)
 
 ## legal
 
