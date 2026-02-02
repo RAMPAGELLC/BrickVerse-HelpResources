@@ -32,6 +32,8 @@
   * [Advertising Overview](general/general/advertising-overview/README.md)
     * [Advertising Standards](general/general/advertising-overview/advertising-standards.md)
     * [Complying with Advertising Standards](general/general/advertising-overview/complying-with-advertising-standards.md)
+  * [Featured Guilds, Market Items, and Games](general/general/featured-guilds-market-items-and-games.md)
+  * [Sponsored Content on Brickverse](general/general/sponsored-content-on-brickverse.md)
 * [Moderation](general/moderation/README.md)
   * [Community Guidelines](general/moderation/community-guidelines.md)
   * [BrickVerse.gg Account and Billing Information Disclosure Policy](general/moderation/brickverse.gg-account-and-billing-information-disclosure-policy.md)
