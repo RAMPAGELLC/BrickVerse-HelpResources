@@ -62,6 +62,7 @@
 * [Uploading a Texture](developers/uploading-a-texture.md)
 * [Why is my account ineligible to receive cubes from Guilds?](developers/why-is-my-account-ineligible-to-receive-cubes-from-guilds.md)
 * [Why does my Guild texture/logo show a file with a 🚫 (rejected) symbol?](developers/why-does-my-guild-texture-logo-show-a-file-with-a-rejected-symbol.md)
+* [On-Site Transaction Fees](developers/on-site-transaction-fees.md)
 
 ## legal
 
