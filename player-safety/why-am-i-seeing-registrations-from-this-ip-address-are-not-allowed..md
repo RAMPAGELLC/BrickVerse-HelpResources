@@ -77,23 +77,6 @@ Some internet providers assign **dynamic IP addresses**. Restarting your modem/r
 
 ***
 
-#### ✔ Contact BrickVerse Support
-
-If you believe this restriction is a mistake, you can appeal.
-
-When contacting support, include:
-
-* The exact error message
-* Your approximate location (country/state only — no exact address)
-* Whether you’re on home, school, work, or public Wi-Fi
-* Confirmation that you are not trying to bypass a previous ban
-
-This helps us review your case faster.
-
-Nice addition — error codes make support _way_ easier. Here’s the updated section you can append to the article:
-
-***
-
 ### 🔎 Registration Error Codes
 
 Along with the message **“Registrations from this IP address are not allowed.”**, you may sometimes see a numeric error code. These codes help our support team understand the reason for the restriction more quickly.
@@ -140,6 +123,21 @@ Example:
 * This block only affects **new account registrations**
 * Existing accounts can still log in normally (unless separately restricted)
 * Attempting to bypass this system to avoid a ban may result in further enforcement
+
+***
+
+#### ✔ Contact BrickVerse Support
+
+If you believe this restriction is a mistake, you can appeal.
+
+When contacting support, include:
+
+* The exact error message
+* Your approximate location (country/state only — no exact address)
+* Whether you’re on home, school, work, or public Wi-Fi
+* Confirmation that you are not trying to bypass a previous ban
+
+This helps us review your case faster.
 
 ***
 
