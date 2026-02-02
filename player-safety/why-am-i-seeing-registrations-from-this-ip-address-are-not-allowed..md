@@ -90,6 +90,49 @@ When contacting support, include:
 
 This helps us review your case faster.
 
+Nice addition — error codes make support _way_ easier. Here’s the updated section you can append to the article:
+
+***
+
+### 🔎 Registration Error Codes
+
+Along with the message **“Registrations from this IP address are not allowed.”**, you may sometimes see a numeric error code. These codes help our support team understand the reason for the restriction more quickly.
+
+#### **Error 101 — Linked to a banned or suspended account**
+
+This IP address was recently used by an account that is currently:
+
+* Banned, or
+* Temporarily suspended
+
+To prevent repeat violations, new registrations from the same connection are blocked for a period of time.
+
+This does **not automatically mean you were the person who broke the rules**, but someone using this network did.
+
+***
+
+#### **Error 102 — Manual network restriction**
+
+This IP address is part of a restriction manually placed by BrickVerse staff.
+
+Unlike Error 101, this restriction may be applied **even if there is no single specific account directly tied to the action**. This can occur when a network is repeatedly used for:
+
+* Large-scale abuse
+* Coordinated spam or scams
+* Attempts to bypass enforcement systems
+
+Because this type of restriction is reviewed and applied by staff, it may take longer to be lifted.
+
+***
+
+### 📨 Appealing with an error code
+
+If you contact support, **include the error code** shown with the message. This allows us to review the situation much faster.
+
+Example:
+
+> _“I receive ‘Registrations from this IP address are not allowed’ with error code 101 when trying to sign up.”_
+
 ***
 
 ### ❗ Important to know
