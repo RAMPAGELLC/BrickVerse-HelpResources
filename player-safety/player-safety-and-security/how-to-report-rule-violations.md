@@ -18,4 +18,4 @@ Together, let's build a thriving and respectful community within BrickVerse wher
 
 In order to report a player you must navigate to their profile and select the red Report button shown below.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
