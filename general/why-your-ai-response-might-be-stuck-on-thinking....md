@@ -2,7 +2,7 @@
 
 Sometimes, when using Brickverse AI support, you might see a message like:
 
-> _"Thinking…"_
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Here’s why this happens and what it means.
 
