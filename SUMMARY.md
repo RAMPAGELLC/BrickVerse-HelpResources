@@ -42,6 +42,7 @@
   * [Addressing Harmful Off-Platform Behavior on BrickVerse](general/moderation/addressing-harmful-off-platform-behavior-on-brickverse.md)
   * [Law Enforcement Guidelines for Obtaining User Data on BrickVerse](general/moderation/law-enforcement-guidelines-for-obtaining-user-data-on-brickverse.md)
 * [I verified my ID / purchased a membership — where is my achievement badge?](general/i-verified-my-id-purchased-a-membership-where-is-my-achievement-badge.md)
+* [Brickverse Support & AI Assistance](general/brickverse-support-and-ai-assistance.md)
 
 ## Player Safety
 
