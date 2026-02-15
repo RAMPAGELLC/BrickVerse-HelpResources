@@ -43,6 +43,7 @@
   * [Law Enforcement Guidelines for Obtaining User Data on BrickVerse](general/moderation/law-enforcement-guidelines-for-obtaining-user-data-on-brickverse.md)
 * [I verified my ID / purchased a membership — where is my achievement badge?](general/i-verified-my-id-purchased-a-membership-where-is-my-achievement-badge.md)
 * [Brickverse Support & AI Assistance](general/brickverse-support-and-ai-assistance.md)
+* [Why Your AI Response Might Be "Stuck on Thinking…"](general/why-your-ai-response-might-be-stuck-on-thinking....md)
 
 ## Player Safety
 
