@@ -64,7 +64,7 @@ Assets you created — including:
 
 — go through a **secondary deletion system**.
 
-These items receive an **additional 2-day grace period** before being fully removed from:
+These items receive an **additional 5-day grace period** before being fully removed from:
 
 * Our CDN (Content Delivery Network)
 * Our databases
