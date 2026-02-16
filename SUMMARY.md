@@ -7,6 +7,7 @@
 * [Engine](general/engine/README.md)
   * [Troubleshooting Connection Issues](general/engine/troubleshooting-connection-issues.md)
   * [Addressing Disconnection Issues in BrickEngine by BrickVerse.GG](general/engine/addressing-disconnection-issues-in-brickengine-by-brickverse.gg.md)
+  * [How to Install the BrickVerse Client and Workshop](general/engine/how-to-install-the-brickverse-client-and-workshop.md)
 * [Accounts](general/accounts/README.md)
   * [BrickVerse.gg Data Deletion Policy](general/accounts/brickverse.gg-data-deletion-policy.md)
   * [Understanding Anti-Session Hijacking Setting on BrickVerse.gg](general/accounts/understanding-anti-session-hijacking-setting-on-brickverse.gg.md)
