@@ -70,6 +70,7 @@
 
 ## legal
 
+* [Account Deletion – How It Works](legal/account-deletion-how-it-works.md)
 * [Health Warning](legal/health-warning.md)
 * [Refund Policy](legal/refund-policy.md)
 * [DMCA](legal/dmca/README.md)
