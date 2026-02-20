@@ -78,6 +78,7 @@
   * [Digital Millennium Copyright Act (DMCA) Policy](legal/dmca/digital-millennium-copyright-act-dmca-policy.md)
 * [Terms](legal/terms/README.md)
   * [Term's Of Service](legal/terms/terms-of-service.md)
+  * [SMS Messaging Terms of Service](legal/terms/sms-messaging-terms-of-service.md)
   * [Creator Store](legal/terms/creator-store/README.md)
     * [End-user License Agreement](legal/terms/creator-store/end-user-license-agreement.md)
     * [Vendor Agreement](legal/terms/creator-store/vendor-agreement.md)
@@ -94,10 +95,10 @@
     * [Donation Agreement](legal/terms/transactions/donation-agreement.md)
     * [Purchase Agreement](legal/terms/transactions/purchase-agreement.md)
 * [Privacy](legal/privacy/README.md)
+  * [SMS Messaging Privacy Policy](legal/privacy/sms-messaging-privacy-policy.md)
   * [Cookie Policy](legal/privacy/cookie-policy.md)
   * [Oculus Privacy Policy](legal/privacy/oculus-privacy-policy.md)
   * [Privacy Policy](legal/privacy/privacy-policy.md)
-  * [CPRA Privacy Policy](legal/privacy/cpra-privacy-policy.md)
 
 ***
 

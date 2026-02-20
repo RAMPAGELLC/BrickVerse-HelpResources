@@ -1,7 +1,5 @@
 # Cookie Policy
 
-Welcome to BrickVerse.gg! We want to ensure that your experience on our platform is not only enjoyable but also transparent. This Cookie Policy explains how we use cookies and similar technologies on our website, BrickVerse.gg, and how they benefit your experience.
-
 #### What Are Cookies?
 
 Cookies are small text files that are stored on your device (computer, tablet, or mobile phone) when you visit a website. These files contain information about your browsing preferences and activities on the site. Cookies are commonly used to enhance website functionality and provide a more personalized experience.
@@ -30,6 +28,6 @@ As we continue to evolve, we may update this Cookie Policy to reflect changes in
 
 #### Contact Us
 
-If you have any questions or concerns about our Cookie Policy or privacy practices, please contact us at help.brickverse.gg.
+If you have any questions or concerns about our Cookie Policy or privacy practices, please contact us at brickverse.gg/help.
 
 Thank you for being part of the BrickVerse.gg community! We appreciate your trust and engagement over the past year.
