@@ -3,7 +3,7 @@
 \
 Effective: February 15th, 2024&#x20;
 
-Last Updated: February 15th, 2024
+Last Updated: February 28th, 2026
 
 ## Introduction&#x20;
 
@@ -15,4 +15,4 @@ Supplementary to our overarching Privacy Policy, the Oculus Privacy Policy speci
 
 When you engage with the Oculus Application, you will encounter a prompt to connect your Oculus Account with a BrickVerse.gg Account. This linkage persists until either your BrickVerse.gg account is deleted or you opt to unlink it at brickverse.gg/my/settings.
 
-Within the BrickVerse.gg environment, certain Oculus account details, including your username and ID, are visible to Experience Developers, BrickVerse Staff, and fellow users. We ensure transparency regarding the visibility of this information.
+Within the BrickVerse.gg environment, certain Oculus account details, including your username and user ID, are visible to Experience Developers, BrickVerse Staff, and other users. We ensure transparency regarding the visibility of this information.
