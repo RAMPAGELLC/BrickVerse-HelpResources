@@ -78,6 +78,7 @@
     * [Public API Abuse Policy](legal/terms/api/public-api-abuse-policy.md)
   * [World Developers](legal/terms/world-developers/README.md)
     * [World Developer Agreement](legal/terms/world-developers/world-developer-agreement.md)
+    * [World Developer Uncopylock Policy](legal/terms/world-developers/world-developer-uncopylock-policy.md)
     * [Code Of Conduct](legal/terms/world-developers/code-of-conduct.md)
     * [Creator Analytics Terms of Use](legal/terms/world-developers/creator-analytics-terms-of-use.md)
   * [Transactions](legal/terms/transactions/README.md)
