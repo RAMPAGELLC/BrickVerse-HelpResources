@@ -2,9 +2,19 @@
 
 ## DATA PROCESSING ADDENDUM (DPA)
 
-**Effective Date:** February 28, 2026 This Data Processing Addendum (“DPA”) forms part of the Terms of Service between:
+**Effective Date:** February 28, 2026&#x20;
 
-**Meta Games LLC** 5441 S Macadam Ave #8134 Portland, OR 97239, USA (“Company”, “BrickVerse” or “Controller”)
+**Updated:** March 5th, 2026
+
+This Data Processing Addendum (“DPA”) forms part of the Terms of Service between:
+
+**Meta Games LLC**&#x20;
+
+5441 S Macadam Ave #8134&#x20;
+
+Portland, OR 97239, USA&#x20;
+
+(“Company”, “BrickVerse” or “Controller”)
 
 and
 
@@ -145,22 +155,36 @@ Security measures are reviewed periodically.
 
 ## 10. Subprocessors
 
-BrickVerse uses the following subprocessors:
+BrickVerse utilizes the following third-party service providers (“subprocessors”) to support the operation and delivery of its services.
 
-| Subprocessor     | Purpose                                                               | Location   |
-| ---------------- | --------------------------------------------------------------------- | ---------- |
-| Stripe, Inc.     | Payment processing                                                    | USA        |
-| Microsoft Azure  | Hosting & storage                                                     | USA/Canada |
-| Cloudflare, Inc. | CDN & security                                                        | USA        |
-| Google LLC       | reCAPTCHA, Security, and Cloud services through Google Cloud Platform | USA        |
+| Subprocessor              | Purpose                                                                        | Location               |
+| ------------------------- | ------------------------------------------------------------------------------ | ---------------------- |
+| Stripe, Inc.              | Payment processing                                                             | United States          |
+| Microsoft Azure           | Cloud services and infrastructure hosting                                      | United States / Canada |
+| Cloudflare, Inc.          | Content delivery network (CDN) and security services                           | United States          |
+| Google LLC                | reCAPTCHA, security services, and cloud services through Google Cloud Platform | United States          |
+| Backblaze, Inc.           | Cloud services and object storage                                              | United States          |
+| Amazon Web Services, Inc. | Cloud services and infrastructure hosting                                      | United States          |
+| tawk.to, Inc.             | Customer communication and support services                                    | United States          |
+| Anthropic PBC             | Artificial intelligence services utilizing large language models               | United States          |
 
-BrickVerse shall:
+#### Subprocessor Service Purposes
 
-* Enter written agreements with subprocessors.
-* Impose equivalent data protection obligations.
-* Remain liable for subprocessor performance.
+Subprocessors may provide services including, but not limited to:
 
-Customers will be notified of material subprocessor changes where required by law.
+* Cloud services and infrastructure hosting
+* Artificial intelligence services utilizing large language models
+* Object storage and data storage services
+* Content delivery network (CDN) services
+* Payment processing services
+* Security, verification, and abuse prevention services
+* Customer support and communication services
+
+#### Use of Third-Party Service Providers
+
+BrickVerse may engage third-party service providers to support the operation, security, and delivery of its services. These providers process data solely as necessary to perform the services they provide to BrickVerse.
+
+Where required by applicable law, BrickVerse may update this list of subprocessors or notify customers of material changes.
 
 ***
 
