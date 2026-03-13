@@ -35,6 +35,7 @@
 * [I verified my ID / purchased a membership — where is my achievement badge?](general/i-verified-my-id-purchased-a-membership-where-is-my-achievement-badge.md)
 * [Brickverse Support & AI Assistance](general/brickverse-support-and-ai-assistance.md)
 * [Why Your AI Response Might Be "Stuck on Thinking…"](general/why-your-ai-response-might-be-stuck-on-thinking....md)
+* [How to use/activate a E-Gift Card?](general/how-to-use-activate-a-e-gift-card.md)
 
 ## Player Safety
 
