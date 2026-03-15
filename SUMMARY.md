@@ -58,6 +58,7 @@
 * [Why does my Guild texture/logo show a file with a 🚫 (rejected) symbol?](developers/why-does-my-guild-texture-logo-show-a-file-with-a-rejected-symbol.md)
 * [On-Site Transaction Fees](developers/on-site-transaction-fees.md)
 * [UGC Creator Nameplate](developers/ugc-creator-nameplate.md)
+* [Understanding Frozen Transactions and Rollback Transactions in Brickverse](developers/understanding-frozen-transactions-and-rollback-transactions-in-brickverse.md)
 
 ## legal
 
