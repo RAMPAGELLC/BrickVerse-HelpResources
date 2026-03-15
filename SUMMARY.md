@@ -60,6 +60,10 @@
 * [UGC Creator Nameplate](developers/ugc-creator-nameplate.md)
 * [Understanding Frozen Transactions and Rollback Transactions in Brickverse](developers/understanding-frozen-transactions-and-rollback-transactions-in-brickverse.md)
 
+## Marketplace
+
+* [Market Price Controlled by User Listings](marketplace/market-price-controlled-by-user-listings.md)
+
 ## legal
 
 * [Account Deletion – How It Works](legal/account-deletion-how-it-works.md)
