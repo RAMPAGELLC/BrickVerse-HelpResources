@@ -47,6 +47,7 @@
   * [How to Report Rule Violations](player-safety/player-safety-and-security/how-to-report-rule-violations.md)
 * [For Parents](player-safety/for-parents.md)
 * [Why am I seeing “Registrations from this IP address are not allowed.”?](player-safety/why-am-i-seeing-registrations-from-this-ip-address-are-not-allowed..md)
+* [Trusted Reporters](player-safety/trusted-reporters.md)
 
 ## DEVELOPERS
 
