@@ -65,6 +65,7 @@
 
 * [Market Price Controlled by User Listings](marketplace/market-price-controlled-by-user-listings.md)
 * [Market Recent Average Valuation (MRAV)](marketplace/market-recent-average-valuation-mrav.md)
+* [Fair Trading Guide](marketplace/fair-trading-guide.md)
 
 ## legal
 
