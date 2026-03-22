@@ -1,5 +1,9 @@
 # Market Price Controlled by User Listings
 
+{% hint style="danger" %}
+This article is outdated, please see our new article called [Market Recent Average Valuation (MRAV)](market-recent-average-valuation-mrav.md).
+{% endhint %}
+
 When a limited marketplace item (such as hats, faces, and other limited-stock collectibles) sells out completely, no new stock can be generated or sold by Brickverse.
 
 Once an item reaches **sold out** status:
