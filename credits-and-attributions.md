@@ -1,5 +1,15 @@
 # Credits and Attributions
 
+## © 2026 Meta Games LLC, BrickVerse.gg is a product of [Meta Games LLC](https://meta-games.org/). All rights reserved.&#x20;
+
+BrickVerse.gg, including all associated names, logos, designs, code, and branding, is the intellectual property of Meta Games LLC. Any unauthorized use, reproduction, or distribution is strictly prohibited and may result in legal action.
+
+***
+
+## Website/Mobile App
+
+This website utilizes styling from The Bootstrap Authors (licensed under the MIT License), along with additional custom styling created by third-party contributors and Meta Games LLC, all of which is licensed for commercial use and owned by Meta Games LLC.
+
 MIT License
 
 Copyright (c) 2020 Refactoring UI Inc.
@@ -18,11 +28,11 @@ Font Awesome Free License
 
 Font Awesome Free is free, open source, and GPL friendly. You can use it for commercial projects, open source projects, or really almost whatever you want. Full Font Awesome Free license: https://fontawesome.com/license/free.
 
-## Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
 
 The Font Awesome Free download is licensed under a Creative Commons Attribution 4.0 International License and applies to all icons packaged as SVG and JS file types.
 
-## Fonts: SIL OFL 1.1 License
+Fonts: SIL OFL 1.1 License
 
 In the Font Awesome Free download, the SIL OFL license applies to all icons packaged as web and desktop font files.
 
@@ -58,7 +68,7 @@ TERMINATION This license becomes null and void if any of the above conditions ar
 
 DISCLAIMER THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
 
-## Code: MIT License (https://opensource.org/licenses/MIT)
+Code: MIT License (https://opensource.org/licenses/MIT)
 
 In the Font Awesome Free download, the MIT license applies to all non-font and non-icon files.
 
@@ -70,23 +80,19 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-***
-
-## Attribution
+Attribution
 
 Attribution is required by MIT, SIL OFL, and CC BY licenses. Downloaded Font Awesome Free files already contain embedded comments with sufficient attribution, so you shouldn't need to do anything additional when using these files normally.
 
 We've kept attribution comments terse, so we ask that you do not actively work to remove them from files, especially code. They're a great way for folks to learn about Font Awesome.
 
-***
-
-## Brand Icons
+Brand Icons
 
 All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder by Font Awesome, nor vice versa. **Please do not use brand logos for any purpose except to represent the company, product, or service to which they refer.**
 
 ***
 
-CSS by Bootstrap (v5.1), CSS is prohibited for re-usage. CSS Design was strictly created for BrickVerse.gg
+Bootstrap V5
 
 Copyright (c) 2011-2018 Twitter, Inc. Copyright (c) 2011-2018 The Bootstrap Authors
 
@@ -98,7 +104,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ***
 
-BrickEngine powered by GoDot Engine 4, re-write by RAMPAGE Interactive & Vanex Network.
+## Engine
+
+BrickEngine powered by GoDot Engine 4, forked and maintained by Meta Games LLC.
 
 Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md). Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 
@@ -110,13 +118,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ***
 
-### Silk icon set 1.3
-
-***
+Silk icon set 1.3
 
 Mark James http://www.famfamfam.com/lab/icons/silk/
-
-***
 
 This work is licensed under a Creative Commons Attribution 2.5 License. \[ http://creativecommons.org/licenses/by/2.5/ ]
 
@@ -126,8 +130,3 @@ Are you using this icon set? Send me an email (including a link or picture if av
 
 Any other questions about this icon set please contact mjames@gmail.com
 
-***
-
-{% hint style="danger" %}
-All work on BrickVerse.gg is copyrighted. Copying/cloning is prohibited.
-{% endhint %}
