@@ -1,4 +1,4 @@
-# How to Manage Multiple Devices on BrickVerse.gg
+# How to Manage Multiple Devices
 
 BrickVerse.gg is a dynamic and innovative social platform designed to empower teenagers and provide them with the tools and resources to unleash their creativity and craft captivating gaming experiences.&#x20;
 

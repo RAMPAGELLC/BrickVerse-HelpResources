@@ -38,7 +38,11 @@ Every month, membership users automatically earn your monthly rewards, which may
 
 ### A Note on Cubes Generators
 
-It's important to stress that there are no legitimate "Cubes generators" available on BrickVerse.gg or any other website. Attempting to use such tools may result in the suspension or banning of your account.  **----** Please note, its simply **impossible to generate currency**.
+It's important to stress that there are no legitimate "Cubes generators" available on BrickVerse.gg or any other website. Attempting to use such tools may result in the suspension or banning of your account.&#x20;
+
+{% hint style="danger" %}
+**It is impossible to generate currency, anyone claiming to be able to is a SCAM!**
+{% endhint %}
 
 We encourage our community members to earn Cubes through legitimate means and engage with the platform in a positive and creative way.
 

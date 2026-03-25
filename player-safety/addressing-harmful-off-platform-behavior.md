@@ -1,4 +1,4 @@
-# Addressing Harmful Off-Platform Behavior on BrickVerse
+# Addressing Harmful Off-Platform Behavior
 
 At BrickVerse, we are dedicated to providing a safe and secure online community for our users. Our commitment to safety extends beyond the boundaries of our platform, and we take a strong stance against harmful off-platform behavior. In this article, we'll outline how we address such behavior through moderation actions to foster a secure and welcoming community.
 

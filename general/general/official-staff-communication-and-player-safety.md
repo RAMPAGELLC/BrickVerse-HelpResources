@@ -25,6 +25,10 @@ Please be cautious if you ever receive such requests. If you encounter any suspi
 
 If you ever receive an official warning or notice related to your account or actions on BrickVerse.gg, you will see the warning via the Moderation Suspension Screen on the BrickVerse.gg website and the Desktop Application. These warnings are legitimate and will only be delivered through the official platform.
 
+The official screen looks like this:
+
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
 **4. Threats and Private Communications:**
 
 BrickVerse.gg staff will never threaten moderation action in private communications, whether it's through Discord server, Discord DMs, BrickVerse Guild Walls, or any other private messaging system. All warnings and actions will be taken through the official channels on our platform.

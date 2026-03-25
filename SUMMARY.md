@@ -11,56 +11,48 @@
 
 ## support
 
-* [Why Your AI Response Might Be "Stuck on Thinking…"](support/why-your-ai-response-might-be-stuck-on-thinking....md)
-* [Brickverse Support & AI Assistance](support/brickverse-support-and-ai-assistance.md)
-* [Official Badges FAQ](support/official-badges-faq.md)
-* [Official Staff Communication & Player Safety](support/official-staff-communication-and-player-safety.md)
-* [My Email Domain is Blacklisted?](support/my-email-domain-is-blacklisted.md)
-* [Why Is My Username Blacklisted?](support/why-is-my-username-blacklisted.md)
-* [Understanding Anti-Session Hijacking Setting on BrickVerse.gg](support/understanding-anti-session-hijacking-setting-on-brickverse.gg.md)
-* [How to Manage Multiple Devices on BrickVerse.gg](support/how-to-manage-multiple-devices-on-brickverse.gg.md)
-* [Inactive Account Deletion](support/inactive-account-deletion.md)
+* [Why Your AI Response Might Be "Stuck on Thinking…"](general/why-your-ai-response-might-be-stuck-on-thinking....md)
+* [Brickverse Support & AI Assistance](general/brickverse-support-and-ai-assistance.md)
+* [Official Staff Communication & Player Safety](general/general/official-staff-communication-and-player-safety.md)
+* [My Email Domain is Blacklisted?](general/registration/my-email-domain-is-blacklisted.md)
+* [Why Is My Username Blacklisted?](general/registration/why-is-my-username-blacklisted.md)
+* [Understanding Anti-Session Hijacking Setting on BrickVerse.gg](general/accounts/understanding-anti-session-hijacking-setting-on-brickverse.gg.md)
+* [How to Manage Multiple Devices](support/how-to-manage-multiple-devices.md)
+* [Inactive Account Deletion](general/accounts/inactive-account-deletion.md)
 
 ## Player Safety
 
-* [Community Guidelines](player-safety/community-guidelines.md)
-* [Law Enforcement Guidelines for Obtaining User Data on BrickVerse](player-safety/law-enforcement-guidelines-for-obtaining-user-data-on-brickverse.md)
-* [Addressing Harmful Off-Platform Behavior on BrickVerse](player-safety/addressing-harmful-off-platform-behavior-on-brickverse.md)
-* [AI Moderation at BrickVerse.gg](player-safety/ai-moderation-at-brickverse.gg.md)
-* [Automatic Moderation and Account Termination on BrickVerse.gg](player-safety/automatic-moderation-and-account-termination-on-brickverse.gg.md)
-* [BrickVerse.gg Account and Billing Information Disclosure Policy](player-safety/brickverse.gg-account-and-billing-information-disclosure-policy.md)
+* [Community Guidelines](general/moderation/community-guidelines.md)
+* [Age Ratings & Content Descriptors on BrickVerse](player-safety/age-ratings-and-content-descriptors-on-brickverse.md)
+* [Law Enforcement Guidelines for Obtaining User Data](player-safety/law-enforcement-guidelines-for-obtaining-user-data.md)
+* [Addressing Harmful Off-Platform Behavior](player-safety/addressing-harmful-off-platform-behavior.md)
+* [AI Moderation at BrickVerse.gg](general/moderation/ai-moderation-at-brickverse.gg.md)
 * [Automatic Chat Recording & Moderation](player-safety/automatic-chat-recording-and-moderation.md)
-* [Player Safety & Security](player-safety/player-safety-and-security/README.md)
-  * [Official Methods for Cubes](player-safety/player-safety-and-security/official-methods-for-cubes.md)
-  * [Age Ratings & Content Descriptors on BrickVerse](player-safety/player-safety-and-security/age-ratings-and-content-descriptors-on-brickverse.md)
-  * [My account was hacked - What do I do?](player-safety/player-safety-and-security/my-account-was-hacked-what-do-i-do.md)
-  * [How to Report Rule Violations](player-safety/player-safety-and-security/how-to-report-rule-violations.md)
-* [For Parents](player-safety/for-parents.md)
 * [Trusted Reporters](player-safety/trusted-reporters.md)
-* [I verified my ID / purchased a membership — where is my achievement badge?](player-safety/i-verified-my-id-purchased-a-membership-where-is-my-achievement-badge.md)
+* [I verified my ID / purchased a membership — where is my achievement badge?](general/i-verified-my-id-purchased-a-membership-where-is-my-achievement-badge.md)
 * [Why am I seeing “Registrations from this IP address are not allowed.”?](player-safety/why-am-i-seeing-registrations-from-this-ip-address-are-not-allowed..md)
+* [My account was hacked - What do I do?](player-safety/my-account-was-hacked-what-do-i-do.md)
+* [How to Report Rule Violations](player-safety/how-to-report-rule-violations.md)
 
 ## DEVELOPERS
 
 * [World Creation & Developer Fees](developers/world-creation-and-developer-fees.md)
 * [Brickverse Developer Exchange Program (DevEx)](developers/brickverse-developer-exchange-program-devex.md)
-* [Uploading a Texture](developers/uploading-a-texture.md)
 * [Why does my Guild texture/logo show a file with a 🚫 (rejected) symbol?](developers/why-does-my-guild-texture-logo-show-a-file-with-a-rejected-symbol.md)
 * [UGC Creator Nameplate](developers/ugc-creator-nameplate.md)
-* [Featured Guilds, Market Items, and Games](developers/featured-guilds-market-items-and-games.md)
-* [Sponsored Content on Brickverse](developers/sponsored-content-on-brickverse.md)
-* [Advertising Overview](developers/advertising-overview/README.md)
-  * [Advertising Standards](developers/advertising-overview/advertising-standards.md)
-  * [Complying with Advertising Standards](developers/advertising-overview/complying-with-advertising-standards.md)
+* [Featured Guilds, Market Items, and Games](general/general/featured-guilds-market-items-and-games.md)
+* [Sponsored Content on Brickverse](general/general/sponsored-content-on-brickverse.md)
+* [Advertising Standards](developers/advertising-standards.md)
+* [Complying with Advertising Standards](developers/complying-with-advertising-standards.md)
 
 ## Transactions
 
-* [How to use/activate a E-Gift Card?](transactions/how-to-use-activate-a-e-gift-card.md)
-* [Understanding Frozen Transactions and Rollback Transactions in Brickverse](transactions/understanding-frozen-transactions-and-rollback-transactions-in-brickverse.md)
-* [On-Site Transaction Fees](transactions/on-site-transaction-fees.md)
-* [Why is my account ineligible to receive cubes from Guilds?](transactions/why-is-my-account-ineligible-to-receive-cubes-from-guilds.md)
-* [Why Is My Transaction Pending? Where Is My Money?](transactions/why-is-my-transaction-pending-where-is-my-money.md)
-* [Ways to Gain Virtual Currency](transactions/ways-to-gain-virtual-currency.md)
+* [How to use/activate a E-Gift Card?](general/how-to-use-activate-a-e-gift-card.md)
+* [Understanding Frozen Transactions and Rollback Transactions in Brickverse](developers/understanding-frozen-transactions-and-rollback-transactions-in-brickverse.md)
+* [On-Site Transaction Fees](developers/on-site-transaction-fees.md)
+* [Why is my account ineligible to receive cubes from Guilds?](developers/why-is-my-account-ineligible-to-receive-cubes-from-guilds.md)
+* [Why Is My Transaction Pending? Where Is My Money?](developers/why-is-my-transaction-pending-where-is-my-money.md)
+* [Ways to Gain Virtual Currency](general/accounts/ways-to-gain-virtual-currency.md)
 
 ## Marketplace
 
@@ -74,7 +66,6 @@
 
 ## legal
 
-* [Account Deletion – How It Works](legal/account-deletion-how-it-works.md)
 * [Health Warning](legal/health-warning.md)
 * [Refund Policy](legal/refund-policy.md)
 * [DMCA](legal/dmca/README.md)
@@ -105,7 +96,9 @@
   * [Oculus Privacy Policy](legal/privacy/oculus-privacy-policy.md)
   * [DATA PROCESSING ADDENDUM (DPA)](legal/privacy/data-processing-addendum-dpa.md)
   * [Privacy Policy](legal/privacy/privacy-policy.md)
-* [BrickVerse.gg Data Deletion Policy](legal/brickverse.gg-data-deletion-policy.md)
+  * [Account and Billing Information Disclosure Policy](legal/privacy/account-and-billing-information-disclosure-policy.md)
+  * [BrickVerse.gg Data Deletion Policy](legal/privacy/brickverse.gg-data-deletion-policy.md)
+  * [Account Deletion – How It Works](legal/privacy/account-deletion-how-it-works.md)
 
 ***
 

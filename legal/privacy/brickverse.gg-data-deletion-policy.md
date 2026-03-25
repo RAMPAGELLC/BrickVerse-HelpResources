@@ -17,3 +17,7 @@ This deletion applies to all content, including text, images, videos, and any ot
 #### Best Practices
 
 * Regularly review your older posts and updates to decide if they are still relevant or useful. You can manually delete content that is no longer needed.
+
+{% hint style="warning" %}
+This article is a stub and not completed...
+{% endhint %}

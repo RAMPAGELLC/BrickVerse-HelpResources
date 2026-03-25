@@ -45,4 +45,4 @@ For more on Featured Content, see:&#x20;
 
 For more information on our advertising policies, see:
 
-[advertising-overview](advertising-overview/ "mention")
+[Broken link](/broken/pages/KIAAb05ty8AYvmWS3q38 "mention")

@@ -1,4 +1,4 @@
-# Law Enforcement Guidelines for Obtaining User Data on BrickVerse
+# Law Enforcement Guidelines for Obtaining User Data
 
 At BrickVerse, we are committed to cooperating with law enforcement agencies and authorities while respecting the privacy and safety of our users. To assist law enforcement in obtaining a user's Unique User ID (UID) when necessary, we have established the following guidelines:
 
@@ -8,11 +8,11 @@ BrickVerse complies with all legal requests from law enforcement agencies when t
 
 **1. Contact Information:**&#x20;
 
-For legal requests to obtain a user data please contact us via email at [legal@brickverse.gg](mailto:legal@brickverse.gg).
+For legal requests to obtain a user data please contact us via email at [legal@brickverse.gg](mailto:legal@brickverse.gg) or by opening a ticket at [https://brickverse.gg/help](https://brickverse.gg/help) (**Recommended**)
 
 **2. Provide Legal Credentials:**&#x20;
 
-In your communication, it is essential to include the appropriate legal credentials, such as a court order, subpoena, or other lawful documents, demonstrating the authority and legal basis for your request. E-mails sent from official government domains such as "fbi.gov" is considered sufficient to prove authority.
+In your communication, you must include proper legal documentation—such as a court order, subpoena, or other lawful authorization—clearly establishing the authority and legal basis for your request. Emails sent from official government domains (e.g., “fbi.gov”) may help verify identity, but do not replace the requirement to provide the relevant legal documents.
 
 **3. Be Specific:**&#x20;
 

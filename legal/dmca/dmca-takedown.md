@@ -34,6 +34,6 @@ Please note that false DMCA takedown requests can have legal consequences, so on
 
 We appreciate your commitment to protecting intellectual property rights and maintaining a safe and creative environment on BrickVerse. If you have any further questions or concerns, please feel free to contact our support team at help.brickverse.gg.\
 \
-You can manually submit DMCA's without a brickverse account at copyright\_agent@brickverse.gg.
+You can manually submit DMCA's without a brickverse account at [legal@brickverse.gg](mailto:legal@brickverse.gg), we recommend doing it the fastest way at [https://brickverse.gg/dmca](https://brickverse.gg/dmca).
 
 Thank you for being a part of the BrickVerse community!

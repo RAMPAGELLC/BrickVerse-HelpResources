@@ -27,5 +27,3 @@ BrickVerse does not support and can not enforce or recover inventory for players
 Except when legally mandated, BrickVerse is not obligated to provide assistance to users whose accounts have been compromised. BrickVerse cannot guarantee the complete restoration of an individual's account to its previous state, nor can it assure the recovery of lost virtual items or virtual currency.
 
 Under specific and limited circumstances, BrickVerse may be able to offer compromised account owners the opportunity to recover lost inventory or receive compensation for its approximate value. If your account has been compromised and you require assistance, it is important to reach out to us within 30 days of the compromise occurring.
-
-<br>

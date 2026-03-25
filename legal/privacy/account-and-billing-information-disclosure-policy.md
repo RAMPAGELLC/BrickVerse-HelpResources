@@ -1,4 +1,4 @@
-# BrickVerse.gg Account and Billing Information Disclosure Policy
+# Account and Billing Information Disclosure Policy
 
 At BrickVerse.gg, we are committed to providing a safe and creative environment for teens to connect, collaborate, and share their imaginative gaming experiences. We value the privacy and security of our users and their contributions to our vibrant community. However, in certain circumstances, we may be required to disclose account and billing information as part of a legal request from law enforcement or when users upload illegal content to our platform. This article outlines our policy regarding the disclosure of such information.
 
