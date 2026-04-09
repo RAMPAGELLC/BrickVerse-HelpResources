@@ -98,7 +98,7 @@
   * [DATA PROCESSING ADDENDUM (DPA)](legal/privacy/data-processing-addendum-dpa.md)
   * [Privacy Policy](legal/privacy/privacy-policy.md)
   * [Account and Billing Information Disclosure Policy](general/moderation/brickverse.gg-account-and-billing-information-disclosure-policy.md)
-  * [BrickVerse.gg Data Deletion Policy](general/accounts/brickverse.gg-data-deletion-policy.md)
+  * [Data Retention and Deletion Policy](legal/privacy/data-retention-and-deletion-policy.md)
   * [Account Deletion – How It Works](legal/account-deletion-how-it-works.md)
 
 ***
