@@ -19,6 +19,7 @@
 * [Understanding Anti-Session Hijacking Setting on BrickVerse.gg](general/accounts/understanding-anti-session-hijacking-setting-on-brickverse.gg.md)
 * [How to Manage Multiple Devices](general/accounts/how-to-manage-multiple-devices-on-brickverse.gg.md)
 * [Inactive Account Deletion](general/accounts/inactive-account-deletion.md)
+* [How to Delete Your BrickVerse Account](support/how-to-delete-your-brickverse-account.md)
 
 ## Player Safety
 
