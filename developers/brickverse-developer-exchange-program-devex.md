@@ -1,5 +1,9 @@
 # Brickverse Developer Exchange Program (DevEx)
 
+{% hint style="danger" %}
+This program is not yet active as we navigate compliance and regulatory fields, please see the [BrickVerse Creator Fund](brickverse-creator-fund-beta.md) article on how we are navigating this to pay developers.
+{% endhint %}
+
 The **Brickverse Developer Exchange Program (DevEx)** lets creators earn real money for building awesome experiences, items, and content on Brickverse.
 
 This article explains how DevEx works, what your earnings mean, and what to expect when you’re ready to cash out.

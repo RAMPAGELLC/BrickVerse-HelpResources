@@ -46,6 +46,7 @@
 * [Advertising Standards](general/general/advertising-overview/advertising-standards.md)
 * [Complying with Advertising Standards](general/general/advertising-overview/complying-with-advertising-standards.md)
 * [About the Developer Toolbox](developers/about-the-developer-toolbox.md)
+* [BrickVerse Creator Fund (Beta)](developers/brickverse-creator-fund-beta.md)
 
 ## Transactions
 
