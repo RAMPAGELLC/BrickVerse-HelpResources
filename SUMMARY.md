@@ -65,6 +65,7 @@
 
 ## worlds
 
+* [Understanding Game Servers & Matchmaking](worlds/understanding-game-servers-and-matchmaking.md)
 * [Entitlements](worlds/entitlements.md)
 
 ## legal
