@@ -83,7 +83,7 @@
     * [Vendor Agreement](legal/terms/creator-store/vendor-agreement.md)
     * [Creator Store Supplemental Term's of Service](legal/terms/creator-store/creator-store-supplemental-terms-of-service.md)
   * [API](legal/terms/api/README.md)
-    * [Artificial Intelligence, Data Mining, and Automated Systems Policy](legal/terms/api/artificial-intelligence-data-mining-and-automated-systems-policy.md)
+    * [AI and Platform Integrity Policy](legal/terms/api/ai-and-platform-integrity-policy.md)
     * [Public API Abuse Policy](legal/terms/api/public-api-abuse-policy.md)
   * [World Developers](legal/terms/world-developers/README.md)
     * [World Developer Agreement](legal/terms/world-developers/world-developer-agreement.md)
