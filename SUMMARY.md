@@ -24,6 +24,7 @@
 ## Player Safety
 
 * [Community Guidelines](general/moderation/community-guidelines.md)
+* [AI Content Indicator](player-safety/ai-content-indicator.md)
 * [Age Ratings & Content Descriptors on BrickVerse](player-safety/player-safety-and-security/age-ratings-and-content-descriptors-on-brickverse.md)
 * [Law Enforcement Guidelines for Obtaining User Data](general/moderation/law-enforcement-guidelines-for-obtaining-user-data-on-brickverse.md)
 * [Addressing Harmful Off-Platform Behavior](general/moderation/addressing-harmful-off-platform-behavior-on-brickverse.md)
