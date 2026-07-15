@@ -23,6 +23,7 @@
 
 ## Player Safety
 
+* [Username Changes](player-safety/username-changes.md)
 * [Community Guidelines](general/moderation/community-guidelines.md)
 * [AI Content Indicator](player-safety/ai-content-indicator.md)
 * [Age Ratings & Content Descriptors on BrickVerse](player-safety/player-safety-and-security/age-ratings-and-content-descriptors-on-brickverse.md)
