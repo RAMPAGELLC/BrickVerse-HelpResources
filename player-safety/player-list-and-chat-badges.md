@@ -55,3 +55,32 @@ BrickVerse determines which applicable badges are displayed in the player list a
 {% hint style="success" %}
 **Safety tip:** Badges can help identify accounts, but you should never give another player your password, authentication codes, recovery codes, or other sensitive account information. BrickVerse staff will never need your password to assist you.
 {% endhint %}
+
+### Badge Priority
+
+A player may qualify for several badges at the same time, but the player list and in-game chat display **only one primary badge**. When multiple badges apply, BrickVerse uses a priority system to determine which badge is shown.
+
+Badges are checked in the following order, from **highest to lowest priority**:
+
+1. **Creator** — Creator/developer of the current World or Universe
+2. **BrickVerse Staff** — Official BrickVerse staff member
+3. **Government Official** — Verified law-enforcement or government official
+4. **Universe Moderator** — Moderator to the Universe
+5. **Universe Tester** — Tester to the Universe
+6. **BrickVerse Star Creator** — Member of the Star Creator program
+7. **BrickVerse Partner** — Member of the BrickVerse Partner program
+8. **Beta Tester** — Participant in the BrickVerse beta testing program
+9. **Birthday** — The player's birthday is today
+10. **Astro Membership** — The player's current Astro membership level
+
+For example, if a player is both **BrickVerse Staff** and a **Beta Tester**, the Staff badge will appear because it has higher priority. Similarly, if a BrickVerse staff member is also a creator of the Universe you're currently playing, the **Creator badge** takes priority.
+
+#### Universe-specific badges
+
+**Universe Moderator** and **Universe Tester** badges are specific to the Universe you're currently playing. **These roles do not indicate that the player is a BrickVerse employee or platform-wide moderator.**
+
+A Universe's creators may assign these roles to members of their own development, testing, or moderation team(s).
+
+{% hint style="info" %}
+The **Friend** and **Verified Account** indicators may be handled separately from the primary badge system. A verified player may, for example, still have a verification checkmark displayed alongside their username even when another primary badge is shown.
+{% endhint %}
