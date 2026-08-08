@@ -36,6 +36,7 @@
 * [Why am I seeing “Registrations from this IP address are not allowed.”?](player-safety/why-am-i-seeing-registrations-from-this-ip-address-are-not-allowed..md)
 * [My account was hacked - What do I do?](player-safety/player-safety-and-security/my-account-was-hacked-what-do-i-do.md)
 * [How to Report Rule Violations](player-safety/player-safety-and-security/how-to-report-rule-violations.md)
+* [Player List & Chat Badges](player-safety/player-list-and-chat-badges.md)
 
 ## DEVELOPERS
 
