@@ -4,10 +4,9 @@
 
 ## General
 
-* [Engine](general/engine/README.md)
-  * [Troubleshooting Connection Issues](general/engine/troubleshooting-connection-issues.md)
-  * [Addressing Disconnection Issues in BrickEngine by BrickVerse.GG](general/engine/addressing-disconnection-issues-in-brickengine-by-brickverse.gg.md)
-  * [How to Install the BrickVerse Client and Workshop](general/engine/how-to-install-the-brickverse-client-and-workshop.md)
+* [Troubleshooting Connection Issues](general/troubleshooting-connection-issues.md)
+* [Why am I getting disconnected from games?](general/why-am-i-getting-disconnected-from-games.md)
+* [How to Install the BrickVerse Client and Creator](general/how-to-install-the-brickverse-client-and-creator.md)
 
 ## support
 
@@ -16,7 +15,6 @@
 * [Official Staff Communication & Player Safety](general/general/official-staff-communication-and-player-safety.md)
 * [My Email Domain is Blacklisted?](general/registration/my-email-domain-is-blacklisted.md)
 * [Why Is My Username Blacklisted?](general/registration/why-is-my-username-blacklisted.md)
-* [Understanding Anti-Session Hijacking Setting on BrickVerse.gg](general/accounts/understanding-anti-session-hijacking-setting-on-brickverse.gg.md)
 * [How to Manage Multiple Devices](general/accounts/how-to-manage-multiple-devices-on-brickverse.gg.md)
 * [Inactive Account Deletion](general/accounts/inactive-account-deletion.md)
 * [How to Delete Your BrickVerse Account](support/how-to-delete-your-brickverse-account.md)
@@ -40,8 +38,6 @@
 
 ## DEVELOPERS
 
-* [World Creation & Developer Fees](developers/world-creation-and-developer-fees.md)
-* [Brickverse Developer Exchange Program (DevEx)](developers/brickverse-developer-exchange-program-devex.md)
 * [Why does my Guild texture/logo show a file with a 🚫 (rejected) symbol?](developers/why-does-my-guild-texture-logo-show-a-file-with-a-rejected-symbol.md)
 * [UGC Creator Nameplate](developers/ugc-creator-nameplate.md)
 * [Featured Guilds, Market Items, and Games](general/general/featured-guilds-market-items-and-games.md)
@@ -49,7 +45,6 @@
 * [Advertising Standards](general/general/advertising-overview/advertising-standards.md)
 * [Complying with Advertising Standards](general/general/advertising-overview/complying-with-advertising-standards.md)
 * [About the Developer Toolbox](developers/about-the-developer-toolbox.md)
-* [BrickVerse Creator Fund (Beta)](developers/brickverse-creator-fund-beta.md)
 
 ## Transactions
 
