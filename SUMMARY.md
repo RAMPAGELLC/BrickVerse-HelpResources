@@ -45,6 +45,7 @@
 * [Advertising Standards](general/general/advertising-overview/advertising-standards.md)
 * [Complying with Advertising Standards](general/general/advertising-overview/complying-with-advertising-standards.md)
 * [About the Developer Toolbox](developers/about-the-developer-toolbox.md)
+* [Why You May See an “Experimental Scripting” Warning](developers/why-you-may-see-an-experimental-scripting-warning.md)
 
 ## Transactions
 
